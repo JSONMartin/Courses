@@ -1,0 +1,2685 @@
+{
+  "users": [
+    {
+      "id": "23",
+      "firstName": "Mikeszasdfz",
+      "age": 20,
+      "companyId": "1"
+    },
+    {
+      "id": "40",
+      "firstName": "Alex",
+      "age": 40,
+      "companyId": "2"
+    },
+    {
+      "id": "41",
+      "firstName": "Ellis",
+      "age": 41,
+      "companyId": "2"
+    },
+    {
+      "firstName": "Stephen",
+      "age": 26,
+      "id": "rkiTVUgpl"
+    },
+    {
+      "firstName": "Stephen",
+      "age": 26,
+      "id": "HyglkHUe6x"
+    },
+    {
+      "firstName": "Stephen",
+      "age": 26,
+      "id": "Hk-JSIlal"
+    },
+    {
+      "firstName": "Stephen",
+      "age": 26,
+      "id": "ryMkr8lTx"
+    },
+    {
+      "firstName": "Stephen",
+      "age": 26,
+      "id": "S171rIx6x"
+    },
+    {
+      "firstName": "Stephen",
+      "age": 26,
+      "id": "HJrxSIe6l"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "iphone"
+    },
+    {
+      "id": "2",
+      "name": "Googez",
+      "description": "search"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1",
+      "title": "#MOMSTAMINA",
+      "image": "https://media1.popsugar-assets.com/files/thumbor/doMyEwrTcrZ5duWxDElxedCItFI/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2017/01/17/947/n/32042199/4baada21587e9055ab3515.53909012_edit_img_front_page_image_file_14930383_1484688662/i/Women-Under-30-29-Less-Likely-Have-Retirement-Account.jpg"
+    },
+    {
+      "id": "2",
+      "title": "ABOVE AND BEYOND",
+      "image": "https://media1.popsugar-assets.com/files/thumbor/hmn-wcWSWJlnv35u3nV4Hpe3S2I/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2015/02/26/876/n/32042199/cd60c48e_edit_img_image_14930383_1424300190_HeroImageAbove_Beyond_FINAL/i/6-Things-Brands-Can-Learn-About-Reaching-Millennial-Women.jpg"
+    },
+    {
+      "id": "3",
+      "title": "BEAUTY",
+      "image": "https://media1.popsugar-assets.com/files/thumbor/eYaz0vGk7EMzaLbYrndxHEu_kDk/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2014/08/04/679/n/32042199/f39598a3380342b8_thumb_temp_image149303831403201944/i/Where-Women-Buy-Body-Skin-Care-Products.jpg"
+    },
+    {
+      "id": "4",
+      "title": "BLOG INFLUENCE",
+      "image": "https://media1.popsugar-assets.com/files/thumbor/kwUea9I9aAvsyLfUViiIO_yq1sI/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2015/08/04/982/n/32042199/d6dec1e6_edit_img_image_14930383_1437066343_BlogInfluence_FinalHero/i/82-Women-Enjoy-Branded-Promotions-Blogs.jpg"
+    },
+    {
+      "id": "5",
+      "title": "CAREER REPORT",
+      "image": "https://media1.popsugar-assets.com/files/thumbor/OuSzrVUTutd8sKeWMad9Gzwve2Q/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2017/01/17/949/n/32042199/e3b5dcb8587e90c8bd4911.02168061_edit_img_image_42487122_1475252862/i/Women-Cite-High-Expectations-Roadblock-Career-Success.jpg"
+    },
+    {
+      "id": "6",
+      "title": "CONTENT, COMMERCE, CULTURE",
+      "image": "https://media1.popsugar-assets.com/files/thumbor/tu9FNxExzmxCzKXPexUIyhICReg/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2015/10/07/727/n/32042199/f2120d37_edit_img_image_14930383_1444234552_ContentCommerceCulture_FinalHero/i/77-Women-Want-Brands-Offer-Limited-Edition-Products.jpg"
+    },
+    {
+      "id": "7",
+      "title": "EVOCATIVE WEB",
+      "image": "https://media1.popsugar-assets.com/files/thumbor/iGyrjYoInly65jOzZLG7by3OcLs/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2015/05/06/777/n/32042199/081d434f_edit_img_image_14930383_1429893236_EvocativeWebHeroFINAL/i/Best-Practices-Visual-Content.jpg"
+    },
+    {
+      "id": "8",
+      "title": "FOOD REPORT",
+      "image": "https://media1.popsugar-assets.com/files/thumbor/DZ50dDiA6sHgMrqn5h3OkN_beJw/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2015/04/06/978/n/32042199/cf73617d_edit_img_image_14930383_1428082389_FoodReportHeroFINAL/i/54-Women-Grocery-Shop-Combination-Stores.jpg"
+    },
+    {
+      "id": "8",
+      "title": "FOOD REPORT",
+      "image": "https://media1.popsugar-assets.com/files/thumbor/DZ50dDiA6sHgMrqn5h3OkN_beJw/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2015/04/06/978/n/32042199/cf73617d_edit_img_image_14930383_1428082389_FoodReportHeroFINAL/i/54-Women-Grocery-Shop-Combination-Stores.jpg"
+    },
+    {
+      "id": "9",
+      "title": "FUTURE OF BEAUTY",
+      "image": "https://media1.popsugar-assets.com/files/thumbor/DwIrwJNnZ2Zv7qgCzGkRcxGom3Y/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2016/07/22/863/n/32042199/59db54e3_edit_img_image_42025784_1469030332_PS16_Insights_BeautyEvolved/i/91-Millennial-Women-Want-Universal-Checkout-Purchase-Beauty-Products.jpg"
+    },
+    {
+      "id": "10",
+      "title": "FUTURE OF RETAIL",
+      "image": "https://media1.popsugar-assets.com/files/thumbor/IBvaAjs2VWzrTAsBByI9JT6wPA8/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2016/06/10/015/n/32042199/3b718df9_edit_img_image_41601583_1465487470_PS16_Insights_FutureRetail/i/93-Millennial-Women-Interested-Universal-Checkout.jpg"
+    },
+    {
+      "id": "11",
+      "title": "HAPPINESS",
+      "image": "https://media1.popsugar-assets.com/files/thumbor/sDIVqp6ovNZM1gcMma90hJsPF1Y/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2015/12/01/788/n/32042199/79dc0323_edit_img_image_14930383_1448991964_FindYourHappyFINAL/i/Digital-Content-Fuels-Human-Happiness.jpg"
+    },
+    {
+      "id": "12",
+      "title": "HEALTHY LIVING",
+      "image": "https://media1.popsugar-assets.com/files/thumbor/Rd2_hP9O53YHiXFjewU0UGJTfXQ/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2014/01/06/892/n/32042199/8cfef27b31b8f05a_thumb_temp_image149303831389039722/i/Nourished-Life-POPSUGAR-Insights-2014-Healthy-Living-Report.jpg"
+    },
+    {
+      "id": "13",
+      "title": "HOLIDAY SHOPPING",
+      "image": "https://media1.popsugar-assets.com/files/thumbor/jl-iTD2naFGlIFr3fw3-1Ms1UG0/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2013/12/17/754/n/32042199/d655d59e70bb1145_thumb_temp_image325495571384980461/i/Tis-Season-Shop-2013-Holiday-Shopping-Report.jpg"
+    },
+    {
+      "id": "14",
+      "title": "HYPERCULTURAL LATINAS",
+      "image": "https://media1.popsugar-assets.com/files/thumbor/H3FkgK_OtPfZEf3X5vIg-u1aX_o/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2016/03/14/985/n/32042199/be4ec5d7_edit_img_image_40533195_1457722703_Latina_HeroImageFINAL/i/Latinas-24-More-Likely-Watch-Videos-Social-Media-Share-Content-Stay-Connected.jpg"
+    },
+    {
+      "id": "15",
+      "title": "LIFESTYLE VIDEO",
+      "image": "https://media1.popsugar-assets.com/files/thumbor/ts1gjJZvoTFDnaCrP0F0LvjCZvM/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2014/04/24/931/n/32042199/8a2c62f6fd9fddff_thumb_temp_image149303831398374345/i/Sight-Sound-Emotion-2014-Lifestyle-Video-Study.jpg"
+    },
+    {
+      "id": "16",
+      "title": "RETAIL-APPAREL",
+      "image": "https://media1.popsugar-assets.com/files/thumbor/sHHkCluySixskLTktTbaTWQWg38/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2014/09/02/782/n/32042199/c91abd1d78984408_thumb_temp_image149303831409679979/i/Daily-Obsession-Q3-2014-Retail-Apparel-Report.jpg"
+    },
+    {
+      "id": "17",
+      "title": "WEDDING REPORT",
+      "image": "https://media1.popsugar-assets.com/files/thumbor/dvZJODnw45PQUW_tv9TiMFbQy3I/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2016/09/07/840/n/32042199/d14fee8f_d11405a5_PS_Insights_Weddings_hero_2016/i/Real-Cost-Getting-Married.jpg"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "date": "2016-04-21T09:07:43-07:00",
+      "title": "Kidfluence: Children Wield Significant Influence Over What Moms' Purchase",
+      "tagId": "1",
+      "link": "http://insights.popsugar.com/Kidfluence-Children-Wield-Significant-Influence-Over-What-Moms-Purchase-41023642"
+    },
+    {
+      "id": "2",
+      "date": "2016-04-19T13:16:22-07:00",
+      "title": "Self Care Activities Help Moms Find Their Happy",
+      "tagId": "1",
+      "link": "http://insights.popsugar.com/Self-Care-Activities-Help-Moms-Find-Happy-40996485"
+    },
+    {
+      "id": "3",
+      "date": "2016-04-15T12:12:38-07:00",
+      "title": "Digital Content: Mom's Lifeline",
+      "tagId": "1",
+      "link": "http://insights.popsugar.com/Digital-Content-Mom-Lifeline-40953857"
+    },
+    {
+      "id": "4",
+      "date": "2016-04-12T09:28:19-07:00",
+      "title": "71% Of Millennial Moms Want Brands To Offer Useful, Exclusive, Or Expert Content",
+      "tagId": "1",
+      "link": "http://insights.popsugar.com/71-Millennial-Moms-Want-Brands-Offer-Useful-Exclusive-Expert-Content-40903647"
+    },
+    {
+      "id": "5",
+      "date": "2016-04-01T11:48:51-07:00",
+      "title": "68% Of Millennial Moms Share Content That Aligns With Their Passions",
+      "tagId": "1",
+      "link": "http://insights.popsugar.com/68-Millennial-Moms-Share-Content-Aligns-Passions-40779471"
+    },
+    {
+      "id": "6",
+      "date": "2016-03-31T10:49:23-07:00",
+      "title": "Becoming A Mom Means Less Time For Favorite Activites",
+      "tagId": "1",
+      "link": "http://insights.popsugar.com/Becoming-Mom-Means-Less-Time-Favorite-Activites-40764866"
+    },
+    {
+      "id": "7",
+      "date": "2016-03-28T11:45:09-07:00",
+      "title": "98% Of Moms Are Household Grocery Decision-Makers",
+      "tagId": "1",
+      "link": "http://insights.popsugar.com/98-Moms-Household-Grocery-Decision-Makers-40723381"
+    },
+    {
+      "id": "8",
+      "date": "2016-03-25T13:47:04-07:00",
+      "title": "1 In 3 Moms Spend Over $50 Per Month On Personal Tech",
+      "tagId": "1",
+      "link": "http://insights.popsugar.com/1-3-Moms-Spend-Over-50-per-Month-Personal-Tech-40698635"
+    },
+    {
+      "id": "9",
+      "date": "2016-03-24T09:13:43-07:00",
+      "title": "Moms Need Help In Key Parenting Areas",
+      "tagId": "1",
+      "link": "http://insights.popsugar.com/Moms-Need-Help-Key-Parenting-Areas-40683282"
+    },
+    {
+      "id": "10",
+      "date": "2016-03-23T09:36:38-07:00",
+      "title": "9 In 10 Millennial Moms Regularly Use Facebook",
+      "tagId": "1",
+      "link": "http://insights.popsugar.com/9-10-Millennial-Moms-Regularly-Use-Facebook-40670165"
+    },
+    {
+      "id": "11",
+      "date": "2016-03-14T15:37:28-07:00",
+      "title": "#Momstamina",
+      "tagId": "1",
+      "link": "http://insights.popsugar.com/Momstamina-40564915"
+    },
+    {
+      "id": "12",
+      "date": "2016-06-23T14:08:58-07:00",
+      "title": "Fast-Fashion Brands Quick To Tap Into Power Of Influencers",
+      "tagId": "2",
+      "link": "http://insights.popsugar.com/Fast-Fashion-Brands-Quick-Tap-Power-Influencers-41753591"
+    },
+    {
+      "id": "13",
+      "date": "2016-05-20T09:48:05-07:00",
+      "title": "Style Brands Use Influencers To Think Outside The Blog",
+      "tagId": "2",
+      "link": "http://insights.popsugar.com/Style-Brands-Use-Influencers-Think-Outside-Blog-41381309"
+    },
+    {
+      "id": "14",
+      "date": "2016-05-16T10:45:01-07:00",
+      "title": "The United States Of Yoga",
+      "tagId": "2",
+      "link": "http://insights.popsugar.com/United-States-Yoga-41334109"
+    },
+    {
+      "id": "15",
+      "date": "2016-02-26T12:06:17-08:00",
+      "title": "What Marketers Can Learn From Stand-Up Comics",
+      "tagId": "2",
+      "link": "http://insights.popsugar.com/What-Marketers-Can-Learn-From-Stand-Up-Comics-40346890"
+    },
+    {
+      "id": "16",
+      "date": "2015-12-01T09:56:03-08:00",
+      "title": "Digital Content Fuels Human Happiness",
+      "tagId": "2",
+      "link": "http://insights.popsugar.com/Digital-Content-Fuels-Human-Happiness-39257725"
+    },
+    {
+      "id": "17",
+      "date": "2015-06-26T12:43:20-07:00",
+      "title": "Creating Evocative Digital Experiences Via Visual Content",
+      "tagId": "2",
+      "link": "http://insights.popsugar.com/Creating-Evocative-Digital-Experiences-via-Visual-Content-37786876"
+    },
+    {
+      "id": "18",
+      "date": "2015-02-18T14:56:30-08:00",
+      "title": "6 Things Brands Can Learn About Reaching Millennial Women",
+      "tagId": "2",
+      "link": "http://insights.popsugar.com/6-Things-Brands-Can-Learn-About-Reaching-Millennial-Women-36896994"
+    },
+    {
+      "id": "19",
+      "date": "2014-12-12T13:54:54-08:00",
+      "title": "Fostering Winning Customer Relationships",
+      "tagId": "2",
+      "link": "http://insights.popsugar.com/Fostering-Winning-Customer-Relationships-36267417"
+    },
+    {
+      "id": "20",
+      "date": "2014-11-17T15:47:31-08:00",
+      "title": "Creating Relevant Messaging; Helping Her Be Her Best Self",
+      "tagId": "2",
+      "link": "http://insights.popsugar.com/Creating-Relevant-Messaging-Helping-Her-Her-Best-Self-36127121"
+    },
+    {
+      "id": "21",
+      "date": "2014-11-05T10:52:22-08:00",
+      "title": "Four Essential Insights For Marketing To Women",
+      "tagId": "2",
+      "link": "http://insights.popsugar.com/Four-Essential-Insights-Marketing-Women-36029794"
+    },
+    {
+      "id": "22",
+      "date": "2014-10-30T08:16:31-07:00",
+      "title": "Taking Insights Above And Beyond",
+      "tagId": "2",
+      "link": "http://insights.popsugar.com/Taking-Insights-Above-Beyond-36017235"
+    },
+    {
+      "id": "23",
+      "date": "2014-08-04T08:18:40-07:00",
+      "title": "Where Women Buy Body And Skin Care Products",
+      "tagId": "3",
+      "link": "http://insights.popsugar.com/Where-Women-Buy-Body-Skin-Care-Products-35031003"
+    },
+    {
+      "id": "24",
+      "date": "2014-08-01T10:22:44-07:00",
+      "title": "Where Women Buy Hair Care Products",
+      "tagId": "3",
+      "link": "http://insights.popsugar.com/Where-Women-Buy-Hair-Care-Products-35031002"
+    },
+    {
+      "id": "25",
+      "date": "2014-07-31T09:37:50-07:00",
+      "title": "Body And Skin Care Category Update",
+      "tagId": "3",
+      "link": "http://insights.popsugar.com/Body-Skin-Care-Category-Update-35030998"
+    },
+    {
+      "id": "26",
+      "date": "2014-07-29T09:12:24-07:00",
+      "title": "Cosmetics Category Update",
+      "tagId": "3",
+      "link": "http://insights.popsugar.com/Cosmetics-Category-Update-35030994"
+    },
+    {
+      "id": "27",
+      "date": "2014-07-28T11:05:22-07:00",
+      "title": "Hair Care Category Update",
+      "tagId": "3",
+      "link": "http://insights.popsugar.com/Hair-Care-Category-Update-35030992"
+    },
+    {
+      "id": "28",
+      "date": "2014-07-25T10:59:02-07:00",
+      "title": "76% Of Women Consider Brand Loyalty An Influence On Shopping Behaviors",
+      "tagId": "3",
+      "link": "http://insights.popsugar.com/76-Women-Consider-Brand-Loyalty-Influence-Shopping-Behaviors-35031005"
+    },
+    {
+      "id": "29",
+      "date": "2014-07-24T08:52:53-07:00",
+      "title": "Where Women Purchase Cosmetics",
+      "tagId": "3",
+      "link": "http://insights.popsugar.com/Where-Women-Purchase-Cosmetics-35031004"
+    },
+    {
+      "id": "30",
+      "date": "2014-07-23T09:07:53-07:00",
+      "title": "59% Of Women Spend Over $150 On Cosmetics Annually",
+      "tagId": "3",
+      "link": "http://insights.popsugar.com/59-Women-Spend-Over-150-Cosmetics-Annually-35031000"
+    },
+    {
+      "id": "31",
+      "date": "2014-07-21T09:42:27-07:00",
+      "title": "Shopping Spree! What Women Would Buy With An Unlimited Budget",
+      "tagId": "3",
+      "link": "http://insights.popsugar.com/Shopping-Spree-What-Women-Would-Buy-Unlimited-Budget-35030990"
+    },
+    {
+      "id": "32",
+      "date": "2014-07-18T08:49:31-07:00",
+      "title": "80% Of Women Say Free Samples Drive Product Trial",
+      "tagId": "3",
+      "link": "http://insights.popsugar.com/80-Women-Say-Free-Samples-Drive-Product-Trial-35030989"
+    },
+    {
+      "id": "33",
+      "date": "2014-07-17T10:03:12-07:00",
+      "title": "79% Of Women Are Open To Trying New Beauty Brands",
+      "tagId": "3",
+      "link": "http://insights.popsugar.com/79-Women-Open-Trying-New-Beauty-Brands-35030988"
+    },
+    {
+      "id": "34",
+      "date": "2014-07-16T09:18:38-07:00",
+      "title": "73% Of Women Find Product Reviews Valuable Content",
+      "tagId": "3",
+      "link": "http://insights.popsugar.com/73-Women-Find-Product-Reviews-Valuable-Content-35030987"
+    },
+    {
+      "id": "35",
+      "date": "2014-07-14T10:29:08-07:00",
+      "title": "54% Of Women Consider Beauty Sites Most Inspirational",
+      "tagId": "3",
+      "link": "http://insights.popsugar.com/54-Women-Consider-Beauty-Sites-Most-Inspirational-35030984"
+    },
+    {
+      "id": "36",
+      "date": "2014-07-11T08:16:58-07:00",
+      "title": "86% Of Women Discover Beauty Trends On Endemic Sites And Blogs",
+      "tagId": "3",
+      "link": "http://insights.popsugar.com/86-Women-Discover-Beauty-Trends-Endemic-Sites-Blogs-35030966"
+    },
+    {
+      "id": "37",
+      "date": "2014-07-10T09:37:26-07:00",
+      "title": "79% Of Women Strive To Look Their Best Daily",
+      "tagId": "3",
+      "link": "http://insights.popsugar.com/79-Women-Strive-Look-Best-Daily-35030936"
+    },
+    {
+      "id": "38",
+      "date": "2015-07-16T10:05:43-07:00",
+      "title": "82% Of Women Enjoy Branded Promotions On Blogs",
+      "tagId": "4",
+      "link": "http://insights.popsugar.com/82-Women-Enjoy-Branded-Promotions-Blogs-37912513"
+    },
+    {
+      "id": "39",
+      "date": "2015-07-15T09:28:59-07:00",
+      "title": "92% Of Women Have Positive Brand Associations",
+      "tagId": "4",
+      "link": "http://insights.popsugar.com/92-Women-Have-Positive-Brand-Associations-37904856"
+    },
+    {
+      "id": "40",
+      "date": "2015-07-14T09:04:01-07:00",
+      "title": "Blogs Spur 7 In 10 Women To Take Immediate Action",
+      "tagId": "4",
+      "link": "http://insights.popsugar.com/Blogs-Spur-7-10-Women-Take-Immediate-Action-37897630"
+    },
+    {
+      "id": "41",
+      "date": "2015-07-13T09:38:55-07:00",
+      "title": "8 In 10 Women Seek Out Blogs For Shopping Advice",
+      "tagId": "4",
+      "link": "http://insights.popsugar.com/8-10-Women-Seek-Out-Blogs-Shopping-Advice-37890342"
+    },
+    {
+      "id": "42",
+      "date": "2015-07-02T10:15:13-07:00",
+      "title": "Blogs: An Essential Part Of A Woman’s Shopping Journey",
+      "tagId": "4",
+      "link": "http://insights.popsugar.com/Blogs-Essential-Part-Womans-Shopping-Journey-37825948"
+    },
+    {
+      "id": "43",
+      "date": "2015-07-01T09:51:52-07:00",
+      "title": "93% Of Women Visit Blogs To Be Inspired",
+      "tagId": "4",
+      "link": "http://insights.popsugar.com/93-Women-Visit-Blogs-Inspired-37818139"
+    },
+    {
+      "id": "44",
+      "date": "2015-06-30T14:05:19-07:00",
+      "title": "54% Of Women Visit More Than 4 Blogs Regularly",
+      "tagId": "4",
+      "link": "http://insights.popsugar.com/54-Women-Visit-More-Than-4-Blogs-Regularly-37811886"
+    },
+    {
+      "id": "45",
+      "date": "2016-09-30T09:27:42-07:00",
+      "title": "Women Cite High Expectations As Roadblock To Career Success",
+      "tagId": "5",
+      "link": "http://insights.popsugar.com/Women-Cite-High-Expectations-Roadblock-Career-Success-42487122"
+    },
+    {
+      "id": "46",
+      "date": "2016-09-28T09:24:46-07:00",
+      "title": "Nearly 6 In 10 Women Have Considered Launching A Business",
+      "tagId": "5",
+      "link": "http://insights.popsugar.com/Nearly-6-10-Women-Have-Considered-Launching-Business-42472323"
+    },
+    {
+      "id": "47",
+      "date": "2016-09-14T09:25:53-07:00",
+      "title": "7 In 10 Women Have Work-Life Balance, But 1/2 Don’t Take Time To Focus On Their Health",
+      "tagId": "5",
+      "link": "http://insights.popsugar.com/7-10-Women-Have-Work-Life-Balance-12-Dont-Take-Time-Focus-Health-42385905"
+    },
+    {
+      "id": "48",
+      "date": "2016-09-12T08:24:02-07:00",
+      "title": "Women Under 30 Seek Higher Salary, Better Benefits, From Their Next Position",
+      "tagId": "5",
+      "link": "http://insights.popsugar.com/Women-Under-30-Seek-Higher-Salary-Better-Benefits-From-Next-Position-42370097"
+    },
+    {
+      "id": "49",
+      "date": "2016-09-08T09:25:55-07:00",
+      "title": "71% Of Women Are Satisfied With Their Current Position",
+      "tagId": "5",
+      "link": "http://insights.popsugar.com/71-Women-Satisfied-Current-Position-42349661"
+    },
+    {
+      "id": "50",
+      "date": "2016-09-07T11:55:49-07:00",
+      "title": "1/3 Of Women Have Worked For Current Employer For Over 5 Years",
+      "tagId": "5",
+      "link": "http://insights.popsugar.com/13-Women-Have-Worked-Current-Employer-Over-5-Years-42343805"
+    },
+    {
+      "id": "51",
+      "date": "2015-10-07T09:26:57-07:00",
+      "title": "77% Of Women Want Brands To Offer Limited-Edition Products",
+      "tagId": "6",
+      "link": "http://insights.popsugar.com/77-Women-Want-Brands-Offer-Limited-Edition-Products-38700352"
+    },
+    {
+      "id": "52",
+      "date": "2015-10-06T10:01:51-07:00",
+      "title": "30% Of Women Enjoy Brands They Consider To Be Trendsetters",
+      "tagId": "6",
+      "link": "http://insights.popsugar.com/30-Women-Enjoy-Brands-Consider-Trendsetters-38689128"
+    },
+    {
+      "id": "53",
+      "date": "2015-10-05T12:36:02-07:00",
+      "title": "76% Of Women Prefer To Follow Trends Than Be Trendsetter",
+      "tagId": "6",
+      "link": "http://insights.popsugar.com/76-Women-Prefer-Follow-Trends-Than-Trendsetter-38678307"
+    },
+    {
+      "id": "54",
+      "date": "2015-10-02T08:41:39-07:00",
+      "title": "4 In 10 Women Use Digital Content To Fuel Participation In Cultural Trends",
+      "tagId": "6",
+      "link": "http://insights.popsugar.com/4-10-Women-Use-Digital-Content-Fuel-Participation-Cultural-Trends-38624424"
+    },
+    {
+      "id": "55",
+      "date": "2015-10-01T10:46:32-07:00",
+      "title": "Facebook Most Popular Social Platform For Discovering Trends",
+      "tagId": "6",
+      "link": "http://insights.popsugar.com/Facebook-Most-Popular-Social-Platform-Discovering-Trends-38614753"
+    },
+    {
+      "id": "56",
+      "date": "2015-09-30T09:45:24-07:00",
+      "title": "Women Choose Digital Content As Top Platform For Trendwatching",
+      "tagId": "6",
+      "link": "http://insights.popsugar.com/Women-Choose-Digital-Content-Top-Platform-Trendwatching-38601956"
+    },
+    {
+      "id": "57",
+      "date": "2015-09-29T09:22:13-07:00",
+      "title": "Women Look To Digital Content To Fuel Trend Discovery",
+      "tagId": "6",
+      "link": "http://insights.popsugar.com/Women-Look-Digital-Content-Fuel-Trend-Discovery-38589627"
+    },
+    {
+      "id": "58",
+      "date": "2015-09-25T09:32:06-07:00",
+      "title": "Women Seek Out Trends That Provide Positive Benefits",
+      "tagId": "6",
+      "link": "http://insights.popsugar.com/Women-Seek-Out-Trends-Provide-Positive-Benefits-38553650"
+    },
+    {
+      "id": "59",
+      "date": "2015-09-24T10:57:38-07:00",
+      "title": "Nearly 2 In 3 Women Cite “Popularity” As Key Characteristic Of A Trend",
+      "tagId": "6",
+      "link": "http://insights.popsugar.com/Nearly-2-3-Women-Cite-Popularity-Key-Characteristic-Trend-38542739"
+    },
+    {
+      "id": "60",
+      "date": "2015-09-23T08:49:23-07:00",
+      "title": "Women Keep Up To Date With Trends In Order To Stay \"In The Know\"",
+      "tagId": "6",
+      "link": "http://insights.popsugar.com/Women-Keep-Up-Date-Trends-Order-Stay-Know-38529907"
+    },
+    {
+      "id": "61",
+      "date": "2015-09-22T09:24:12-07:00",
+      "title": "Nearly 100% Of Women Consider It Important To Keep Up With Trends",
+      "tagId": "6",
+      "link": "http://insights.popsugar.com/Nearly-100-Women-Consider-Important-Keep-Up-Trends-38513991"
+    },
+    {
+      "id": "62",
+      "date": "2015-09-21T11:31:33-07:00",
+      "title": "Over 2 In 3 Women Have Consumed Content Related To Coachella",
+      "tagId": "6",
+      "link": "http://insights.popsugar.com/Over-2-3-Women-Have-Consumed-Content-Related-Coachella-38503407"
+    },
+    {
+      "id": "63",
+      "date": "2015-09-18T08:25:06-07:00",
+      "title": "Over 1 In 4 Women Seek Out Topical Experts For Cultural Event Content",
+      "tagId": "6",
+      "link": "http://insights.popsugar.com/Over-1-4-Women-Seek-Out-Topical-Experts-Cultural-Event-Content-38474240"
+    },
+    {
+      "id": "64",
+      "date": "2015-09-17T14:18:17-07:00",
+      "title": "Over Half Of Women Enjoy Humorous Cultural Event Content",
+      "tagId": "6",
+      "link": "http://insights.popsugar.com/Over-Half-Women-Enjoy-Humorous-Cultural-Event-Content-38444357"
+    },
+    {
+      "id": "65",
+      "date": "2015-09-16T11:46:57-07:00",
+      "title": "Nearly Half Of Women Consume Event Content After Event Ends",
+      "tagId": "6",
+      "link": "http://insights.popsugar.com/Nearly-Half-Women-Consume-Event-Content-After-Event-Ends-38429254"
+    },
+    {
+      "id": "66",
+      "date": "2015-08-28T06:12:23-07:00",
+      "title": "Strong Visuals, Passion Points, And Humor Are Key Drivers To Increase Consumption Of Event Content By Women",
+      "tagId": "6",
+      "link": "http://insights.popsugar.com/Strong-Visuals-Passion-Points-Humor-Key-Drivers-Increase-Consumption-Event-Content-Women-38233279"
+    },
+    {
+      "id": "67",
+      "date": "2015-08-27T06:37:53-07:00",
+      "title": "36% Of Women Comment On A Friend’s Event Post",
+      "tagId": "6",
+      "link": "http://insights.popsugar.com/36-Women-Comment-Friends-Event-Post-38221020"
+    },
+    {
+      "id": "68",
+      "date": "2015-08-26T06:44:34-07:00",
+      "title": "Photos And Videos Most Popular Way To Document Event Experiences",
+      "tagId": "6",
+      "link": "http://insights.popsugar.com/Photos-Videos-Most-Popular-Way-Document-Event-Experiences-38211529"
+    },
+    {
+      "id": "69",
+      "date": "2015-08-24T09:23:30-07:00",
+      "title": "39% Of Women Comment On A Social Post While Watching Events On TV",
+      "tagId": "6",
+      "link": "http://insights.popsugar.com/39-Women-Comment-Social-Post-While-Watching-Events-TV-38189217"
+    },
+    {
+      "id": "70",
+      "date": "2015-08-21T09:49:01-07:00",
+      "title": "60% Of Women Watch Videos To Stay Connected To Cultural Events",
+      "tagId": "6",
+      "link": "http://insights.popsugar.com/60-Women-Watch-Videos-Stay-Connected-Cultural-Events-38169942"
+    },
+    {
+      "id": "71",
+      "date": "2015-08-20T14:38:21-07:00",
+      "title": "Women Rely On Facebook To Keep Them Up To Date On Cultural Events",
+      "tagId": "6",
+      "link": "http://insights.popsugar.com/Women-Rely-Facebook-Keep-Them-up-Date-Cultural-Events-38163931"
+    },
+    {
+      "id": "72",
+      "date": "2015-08-19T10:34:33-07:00",
+      "title": "Discovery Drives Women To Watch Cultural Events On TV",
+      "tagId": "6",
+      "link": "http://insights.popsugar.com/Discovery-Drives-Women-Watch-Cultural-Events-TV-38150950"
+    },
+    {
+      "id": "73",
+      "date": "2015-08-14T09:32:26-07:00",
+      "title": "55% Of Women Follow Music Award Shows Via Digital Content Or Social Media",
+      "tagId": "6",
+      "link": "http://insights.popsugar.com/55-Women-Follow-Music-Award-Shows-Via-Digital-Content-Social-Media-38100240"
+    },
+    {
+      "id": "74",
+      "date": "2015-08-13T09:33:33-07:00",
+      "title": "1 In 5 Women Have Attended A Sporting Event In Person",
+      "tagId": "6",
+      "link": "http://insights.popsugar.com/1-5-Women-Have-Attended-Sporting-Event-Person-38091098"
+    },
+    {
+      "id": "75",
+      "date": "2015-08-12T08:51:27-07:00",
+      "title": "62% Of Women Watch Film Award Shows On TV",
+      "tagId": "6",
+      "link": "http://insights.popsugar.com/62-Women-Watch-Film-Award-Shows-TV-38078750"
+    },
+    {
+      "id": "76",
+      "date": "2015-08-11T09:57:13-07:00",
+      "title": "49% Of Women Follow Cultural Events Online To Stay Up To Date",
+      "tagId": "6",
+      "link": "http://insights.popsugar.com/49-Women-Follow-Cultural-Events-Online-Stay-up-Date-38070926"
+    },
+    {
+      "id": "77",
+      "date": "2015-08-10T16:36:03-07:00",
+      "title": "50% Of Women Seek Out Once-In-A-Lifetime Cultural Experiences",
+      "tagId": "6",
+      "link": "http://insights.popsugar.com/50-Women-Seek-Out-Once---Lifetime-Cultural-Experiences-38066231"
+    },
+    {
+      "id": "78",
+      "date": "2015-08-07T09:05:07-07:00",
+      "title": "62% Of Women Follow Music Festivals And Award Shows Via Digital Content",
+      "tagId": "6",
+      "link": "http://insights.popsugar.com/62-Women-Follow-Music-Festivals-Award-Shows-Via-Digital-Content-38049142"
+    },
+    {
+      "id": "79",
+      "date": "2015-08-06T12:34:49-07:00",
+      "title": "70% Of Women Interested In Attending Music Festivals",
+      "tagId": "6",
+      "link": "http://insights.popsugar.com/70-Women-Interested-Attending-Music-Festivals-38043671"
+    },
+    {
+      "id": "80",
+      "date": "2015-08-05T09:56:04-07:00",
+      "title": "64% Of Women Are Interested In Watching Music Awards Programming",
+      "tagId": "6",
+      "link": "http://insights.popsugar.com/64-Women-Interested-Watching-Music-Awards-Programming-38036042"
+    },
+    {
+      "id": "81",
+      "date": "2015-08-04T12:07:08-07:00",
+      "title": "Over 1 In 3 Women Prefer To Consume Entertainment Content Via Their Smartphone",
+      "tagId": "6",
+      "link": "http://insights.popsugar.com/Over-1-3-Women-Prefer-Consume-Entertainment-Content-Via-Smartphone-38029986"
+    },
+    {
+      "id": "82",
+      "date": "2015-04-24T09:33:56-07:00",
+      "title": "Best Practices For Visual Content",
+      "tagId": "7",
+      "link": "http://insights.popsugar.com/Best-Practices-Visual-Content-37340541"
+    },
+    {
+      "id": "83",
+      "date": "2015-04-21T16:10:58-07:00",
+      "title": "68% Of Women More Likely To Buy Brands That Use High-Quality Visual Content",
+      "tagId": "7",
+      "link": "http://insights.popsugar.com/68-Women-More-Likely-Buy-Brands-Use-High-Quality-Visual-Content-37320693"
+    },
+    {
+      "id": "84",
+      "date": "2015-04-20T09:26:52-07:00",
+      "title": "69% Of Women Prefer Native Advertising",
+      "tagId": "7",
+      "link": "http://insights.popsugar.com/69-Women-Prefer-Native-Advertising-37309747"
+    },
+    {
+      "id": "85",
+      "date": "2015-04-17T13:29:18-07:00",
+      "title": "Women Love To Laugh: Insights On The Content Women Want",
+      "tagId": "7",
+      "link": "http://insights.popsugar.com/Women-Love-Laugh-Insights-Content-Women-Want-37296110"
+    },
+    {
+      "id": "86",
+      "date": "2015-04-15T14:55:09-07:00",
+      "title": "Women Enjoy Sharing High-Quality Visual Content",
+      "tagId": "7",
+      "link": "http://insights.popsugar.com/Women-Enjoy-Sharing-High-Quality-Visual-Content-37282776"
+    },
+    {
+      "id": "87",
+      "date": "2015-04-09T18:48:25-07:00",
+      "title": "How Women Define “High-Quality” Visual Content",
+      "tagId": "7",
+      "link": "http://insights.popsugar.com/How-Women-Define-High-Quality-Visual-Content-37249620"
+    },
+    {
+      "id": "88",
+      "date": "2015-04-08T14:45:01-07:00",
+      "title": "87% Of Women Prefer \"Great Visual Content\"",
+      "tagId": "7",
+      "link": "http://insights.popsugar.com/87-Women-Prefer-Great-Visual-Content-37240947"
+    },
+    {
+      "id": "89",
+      "date": "2015-04-06T15:28:02-07:00",
+      "title": "Welcome To The Age Of The \"Evocative Web\"",
+      "tagId": "7",
+      "link": "http://insights.popsugar.com/Welcome-Age-Evocative-Web-37226241"
+    },
+    {
+      "id": "90",
+      "date": "2015-04-03T10:33:09-07:00",
+      "title": "54% Of Women Grocery Shop At A Combination Of Stores",
+      "tagId": "8",
+      "link": "http://insights.popsugar.com/54-Women-Grocery-Shop-Combination-Stores-37210099"
+    },
+    {
+      "id": "91",
+      "date": "2015-04-02T14:58:27-07:00",
+      "title": "35% Of Women Spend $100+ Per Week On Groceries",
+      "tagId": "8",
+      "link": "http://insights.popsugar.com/35-Women-Spend-100-Per-Week-Groceries-37205579"
+    },
+    {
+      "id": "92",
+      "date": "2015-04-01T11:21:08-07:00",
+      "title": "A Profile Of Female Grocery Shopper Behavior",
+      "tagId": "8",
+      "link": "http://insights.popsugar.com/Profile-Female-Grocery-Shopper-Behavior-37197823"
+    },
+    {
+      "id": "93",
+      "date": "2015-03-31T14:15:29-07:00",
+      "title": "74% Of Women Are Open To Trying New Food Brands If Current Favorite Disappoints",
+      "tagId": "8",
+      "link": "http://insights.popsugar.com/74-Women-Open-Trying-New-Food-Brands-Current-Favorite-Disappoints-37192242"
+    },
+    {
+      "id": "94",
+      "date": "2015-03-30T16:52:59-07:00",
+      "title": "8 In 10 Women Seek Out Quality Products",
+      "tagId": "8",
+      "link": "http://insights.popsugar.com/8-10-Women-Seek-Out-Quality-Products-37186403"
+    },
+    {
+      "id": "95",
+      "date": "2015-03-27T15:32:25-07:00",
+      "title": "What Groceries Women Purchase Weekly",
+      "tagId": "8",
+      "link": "http://insights.popsugar.com/What-Groceries-Women-Purchase-Weekly-37169228"
+    },
+    {
+      "id": "96",
+      "date": "2015-03-26T15:47:04-07:00",
+      "title": "Nearly Half Of Women Entertain At Home Every Month",
+      "tagId": "8",
+      "link": "http://insights.popsugar.com/Nearly-Half-Women-Entertain-Home-Every-Month-37162302"
+    },
+    {
+      "id": "97",
+      "date": "2015-03-25T14:11:33-07:00",
+      "title": "What Women Eat: Dinner",
+      "tagId": "8",
+      "link": "http://insights.popsugar.com/What-Women-Eat-Dinner-37154183"
+    },
+    {
+      "id": "98",
+      "date": "2015-03-24T09:27:57-07:00",
+      "title": "81% Of Women Love Food Content With Text And Photos",
+      "tagId": "8",
+      "link": "http://insights.popsugar.com/81-Women-Love-Food-Content-Text-Photos-37144455"
+    },
+    {
+      "id": "99",
+      "date": "2015-03-23T16:31:35-07:00",
+      "title": "6 In 10 Women Grocery Shop On Weekdays",
+      "tagId": "8",
+      "link": "http://insights.popsugar.com/6-10-Women-Grocery-Shop-Weekdays-37140652"
+    },
+    {
+      "id": "100",
+      "date": "2015-03-20T09:23:34-07:00",
+      "title": "What Women Eat: Lunch",
+      "tagId": "8",
+      "link": "http://insights.popsugar.com/What-Women-Eat-Lunch-37122419"
+    },
+    {
+      "id": "101",
+      "date": "2015-03-19T15:43:15-07:00",
+      "title": "What Women Eat: Breakfast",
+      "tagId": "8",
+      "link": "http://insights.popsugar.com/What-Women-Eat-Breakfast-37118796"
+    },
+    {
+      "id": "102",
+      "date": "2015-03-18T11:26:51-07:00",
+      "title": "Over 60% Of Women Discover New Recipes Via Endemic Content",
+      "tagId": "8",
+      "link": "http://insights.popsugar.com/Over-60-Women-Discover-New-Recipes-Via-Endemic-Content-37109143"
+    },
+    {
+      "id": "103",
+      "date": "2015-03-17T09:55:53-07:00",
+      "title": "9 Out Of 10 Women Go Online To Discover New Recipes",
+      "tagId": "8",
+      "link": "http://insights.popsugar.com/9-Out-10-Women-Go-Online-Discover-New-Recipes-37099754"
+    },
+    {
+      "id": "104",
+      "date": "2015-03-16T11:38:21-07:00",
+      "title": "Women Love “Fast And Easy” And “Everyday” Recipe Content",
+      "tagId": "8",
+      "link": "http://insights.popsugar.com/Women-Love-Fast-Easy-Everyday-Recipe-Content-37092793"
+    },
+    {
+      "id": "105",
+      "date": "2015-03-13T09:34:52-07:00",
+      "title": "Taste And Product Quality Are Key When Women Choose Food Brands",
+      "tagId": "8",
+      "link": "http://insights.popsugar.com/Taste-Product-Quality-Key-When-Women-Choose-Food-Brands-37075912"
+    },
+    {
+      "id": "106",
+      "date": "2015-03-11T09:24:38-07:00",
+      "title": "60% Of New-Food-Brand Trial Driven By Ingredients Or Impulse",
+      "tagId": "8",
+      "link": "http://insights.popsugar.com/60-New-Food-Brand-Trial-Driven-Ingredients-Impulse-37059707"
+    },
+    {
+      "id": "107",
+      "date": "2015-03-10T16:23:41-07:00",
+      "title": "63% Of Women Try New Foods Often",
+      "tagId": "8",
+      "link": "http://insights.popsugar.com/63-Women-Try-New-Foods-Often-37055182"
+    },
+    {
+      "id": "108",
+      "date": "2015-03-09T10:59:55-07:00",
+      "title": "The Joy Of Cooking",
+      "tagId": "8",
+      "link": "http://insights.popsugar.com/Joy-Cooking-37043585"
+    },
+    {
+      "id": "109",
+      "date": "2015-03-06T09:29:47-08:00",
+      "title": "65% Of Women Enjoy Cooking",
+      "tagId": "8",
+      "link": "http://insights.popsugar.com/65-Women-Enjoy-Cooking-37025118"
+    },
+    {
+      "id": "110",
+      "date": "2015-03-05T08:59:00-08:00",
+      "title": "43% Of Women Self-Identify As “Foodies”",
+      "tagId": "8",
+      "link": "http://insights.popsugar.com/43-Women-Self-Identify-Foodies-37016437"
+    },
+    {
+      "id": "111",
+      "date": "2015-03-04T14:28:23-08:00",
+      "title": "77% Of Women Seek Recipe Content On Weekdays",
+      "tagId": "8",
+      "link": "http://insights.popsugar.com/77-Women-Seek-Recipe-Content-Weekdays-37011215"
+    },
+    {
+      "id": "112",
+      "date": "2015-03-03T08:27:10-08:00",
+      "title": "93% Of Women Head Online To Seek Inspiration For The Next Grocery Trip",
+      "tagId": "8",
+      "link": "http://insights.popsugar.com/93-Women-Head-Online-Seek-Inspiration-Next-Grocery-Trip-37000566"
+    },
+    {
+      "id": "113",
+      "date": "2015-03-02T15:07:37-08:00",
+      "title": "85% Of Women Prefer To Plan Ahead For Grocery Trips",
+      "tagId": "8",
+      "link": "http://insights.popsugar.com/85-Women-Prefer-Plan-Ahead-Grocery-Trips-36995964"
+    },
+    {
+      "id": "114",
+      "date": "2015-02-26T11:58:22-08:00",
+      "title": "97% Of Women Have An Active Role In Grocery-Decision-Making Process",
+      "tagId": "8",
+      "link": "http://insights.popsugar.com/97-Women-Have-Active-Role-Grocery-Decision-Making-Process-36967026"
+    },
+    {
+      "id": "115",
+      "date": "2016-07-20T08:58:52-07:00",
+      "title": "91% Of Millennial Women Want Universal Checkout To Purchase Beauty Products",
+      "tagId": "9",
+      "link": "http://insights.popsugar.com/91-Millennial-Women-Want-Universal-Checkout-Purchase-Beauty-Products-42025784"
+    },
+    {
+      "id": "116",
+      "date": "2016-07-19T12:05:16-07:00",
+      "title": "Millennial Women Believe Same-Day Delivery And Buying Via Social Platforms Are The Future Of Beauty",
+      "tagId": "9",
+      "link": "http://insights.popsugar.com/Millennial-Women-Believe-Same-Day-Delivery-Buying-Via-Social-Platforms-Future-Beauty-42015896"
+    },
+    {
+      "id": "117",
+      "date": "2016-07-11T10:46:43-07:00",
+      "title": "72% Of Millennial Women Buy Beauty & Personal Care Products In Advance Of Event",
+      "tagId": "9",
+      "link": "http://insights.popsugar.com/72-Millennial-Women-Buy-Beauty-Personal-Care-Products-Advance-Event-41928948"
+    },
+    {
+      "id": "118",
+      "date": "2016-07-08T14:49:26-07:00",
+      "title": "Nearly 3 In 4 Millennial Women Say Beauty Trends Influence Products They Buy",
+      "tagId": "9",
+      "link": "http://insights.popsugar.com/Nearly-3-4-Millennial-Women-Say-Beauty-Trends-Influence-Products-Buy-41908333"
+    },
+    {
+      "id": "119",
+      "date": "2016-07-07T14:48:02-07:00",
+      "title": "Over 1/2 Of Millennial Women Want Educational Beauty Content",
+      "tagId": "9",
+      "link": "http://insights.popsugar.com/Over-12-Millennial-Women-Want-Educational-Beauty-Content-41897086"
+    },
+    {
+      "id": "120",
+      "date": "2016-07-06T09:00:30-07:00",
+      "title": "63% Of Millennial Women Want Shoppable Beauty Content",
+      "tagId": "9",
+      "link": "http://insights.popsugar.com/63-Millennial-Women-Want-Shoppable-Beauty-Content-41881538"
+    },
+    {
+      "id": "121",
+      "date": "2016-07-05T09:13:11-07:00",
+      "title": "32% Of Millennial Women Want Branded Beauty Content To Inspire Them",
+      "tagId": "9",
+      "link": "http://insights.popsugar.com/32-Millennial-Women-Want-Branded-Beauty-Content-Inspire-Them-41869969"
+    },
+    {
+      "id": "122",
+      "date": "2016-07-01T09:15:07-07:00",
+      "title": "4 In 10 Millennial Women Say Content Enhances Their Beauty Shopping Experience",
+      "tagId": "9",
+      "link": "http://insights.popsugar.com/4-10-Millennial-Women-Say-Content-Enhances-Beauty-Shopping-Experience-41839406"
+    },
+    {
+      "id": "123",
+      "date": "2016-06-30T10:26:46-07:00",
+      "title": "Women Follow Beauty Brands For Product Release Updates",
+      "tagId": "9",
+      "link": "http://insights.popsugar.com/Women-Follow-Beauty-Brands-Product-Release-Updates-41827904"
+    },
+    {
+      "id": "124",
+      "date": "2016-06-27T08:49:53-07:00",
+      "title": "41% Of Millennial Women Showcase Their Beauty Purchases",
+      "tagId": "9",
+      "link": "http://insights.popsugar.com/41-Millennial-Women-Showcase-Beauty-Purchases-41786802"
+    },
+    {
+      "id": "125",
+      "date": "2016-06-24T14:29:18-07:00",
+      "title": "71% Of Millennial Women Say Beauty Influencers Are More Important Than Ever",
+      "tagId": "9",
+      "link": "http://insights.popsugar.com/71-Millennial-Women-Say-Beauty-Influencers-More-Important-Than-Ever-41766480"
+    },
+    {
+      "id": "126",
+      "date": "2016-06-23T09:11:44-07:00",
+      "title": "94% Of Millennial Women Inspired By Influencers When Shopping For Beauty",
+      "tagId": "9",
+      "link": "http://insights.popsugar.com/94-Millennial-Women-Inspired-Influencers-When-Shopping-Beauty-41750892"
+    },
+    {
+      "id": "127",
+      "date": "2016-06-20T08:58:54-07:00",
+      "title": "Millennial Women Look In The Mirror To Find Their Beauty Icon",
+      "tagId": "9",
+      "link": "http://insights.popsugar.com/Millennial-Women-Look-Mirror-Find-Beauty-Icon-41713929"
+    },
+    {
+      "id": "128",
+      "date": "2016-06-17T15:02:40-07:00",
+      "title": "35% Of Millennial Women Primarily Shop For Beauty & Personal Care Via Mobile Device",
+      "tagId": "9",
+      "link": "http://insights.popsugar.com/35-Millennial-Women-Primarily-Shop-Beauty-Personal-Care-Via-Mobile-Device-41693837"
+    },
+    {
+      "id": "129",
+      "date": "2016-06-16T09:19:39-07:00",
+      "title": "Price And Preference Drive Millennial Women To Buy Beauty Products",
+      "tagId": "9",
+      "link": "http://insights.popsugar.com/Price-Preference-Drive-Millennial-Women-Buy-Beauty-Products-41677641"
+    },
+    {
+      "id": "130",
+      "date": "2016-06-14T10:15:46-07:00",
+      "title": "Millennial Women Buy Beauty And Personal Care From A Mix Of Store Types",
+      "tagId": "9",
+      "link": "http://insights.popsugar.com/Millennial-Women-Buy-Beauty-Personal-Care-From-Mix-Store-Types-41651759"
+    },
+    {
+      "id": "131",
+      "date": "2016-06-13T11:23:52-07:00",
+      "title": "Nearly 1/2 Of Millennial Women Buy Beauty Products Weekly",
+      "tagId": "9",
+      "link": "http://insights.popsugar.com/Nearly-12-Millennial-Women-Buy-Beauty-Products-Weekly-41640036"
+    },
+    {
+      "id": "132",
+      "date": "2016-06-10T16:22:09-07:00",
+      "title": "Beauty Shopping Is A Weekly Habit For 1 In 5 Millennial Women",
+      "tagId": "9",
+      "link": "http://insights.popsugar.com/Beauty-Shopping-Weekly-Habit-1-5-Millennial-Women-41618124"
+    },
+    {
+      "id": "133",
+      "date": "2016-06-09T08:51:10-07:00",
+      "title": "93% Of Millennial Women Interested In Universal Checkout",
+      "tagId": "10",
+      "link": "http://insights.popsugar.com/93-Millennial-Women-Interested-Universal-Checkout-41601583"
+    },
+    {
+      "id": "134",
+      "date": "2016-06-08T09:35:53-07:00",
+      "title": "67% Of Millennial Women Want Shoppable Content",
+      "tagId": "10",
+      "link": "http://insights.popsugar.com/67-Millennial-Women-Want-Shoppable-Content-41588501"
+    },
+    {
+      "id": "135",
+      "date": "2016-06-06T16:01:56-07:00",
+      "title": "Millennial Women Want Faster Delivery & Universal Checkout",
+      "tagId": "10",
+      "link": "http://insights.popsugar.com/Millennial-Women-Want-Faster-Delivery-Universal-Checkout-41567522"
+    },
+    {
+      "id": "136",
+      "date": "2016-05-24T17:03:35-07:00",
+      "title": "77% Of Millennial Women Buy Apparel For Upcoming Events",
+      "tagId": "10",
+      "link": "http://insights.popsugar.com/77-Millennial-Women-Buy-Apparel-Upcoming-Events-41434700"
+    },
+    {
+      "id": "137",
+      "date": "2016-05-23T16:14:57-07:00",
+      "title": "76% Of Millennial Women Say Trends Influence The Products They Buy",
+      "tagId": "10",
+      "link": "http://insights.popsugar.com/76-Millennial-Women-Say-Trends-Influence-Products-Buy-41420653"
+    },
+    {
+      "id": "138",
+      "date": "2016-05-19T11:09:42-07:00",
+      "title": "49% Of Millennial Women Want More DIY Style Content",
+      "tagId": "10",
+      "link": "http://insights.popsugar.com/49-Millennial-Women-Want-More-DIY-Style-Content-41376867"
+    },
+    {
+      "id": "139",
+      "date": "2016-05-17T11:56:14-07:00",
+      "title": "1 In 3 Millennial Women Want Brands To Inspire Them Via Content",
+      "tagId": "10",
+      "link": "http://insights.popsugar.com/1-3-Millennial-Women-Want-Brands-Inspire-Them-Via-Content-41349390"
+    },
+    {
+      "id": "140",
+      "date": "2016-05-13T09:34:25-07:00",
+      "title": "1/2 Of Millennial Women Say Content Enhances Their Shopping Experience",
+      "tagId": "10",
+      "link": "http://insights.popsugar.com/12-Millennial-Women-Say-Content-Enhances-Shopping-Experience-41304584"
+    },
+    {
+      "id": "141",
+      "date": "2016-05-10T16:18:35-07:00",
+      "title": "Millennial Women Follow Retail Brands Via Social To Learn About Sales, Promotions, And Product Releases",
+      "tagId": "10",
+      "link": "http://insights.popsugar.com/Millennial-Women-Follow-Retail-Brands-via-Social-Learn-About-Sales-Promotions-Product-Releases-41263813"
+    },
+    {
+      "id": "142",
+      "date": "2016-05-09T12:33:14-07:00",
+      "title": "71% Of Millennial Women Have Shared A Photo While Shopping For Apparel",
+      "tagId": "10",
+      "link": "http://insights.popsugar.com/71-Millennial-Women-Have-Shared-Photo-While-Shopping-Apparel-41247318"
+    },
+    {
+      "id": "143",
+      "date": "2016-05-06T11:35:02-07:00",
+      "title": "63% Of Millennial Women Rely On Influencers More Than Ever When Shopping For Apparel",
+      "tagId": "10",
+      "link": "http://insights.popsugar.com/63-Millennial-Women-Rely-Influencers-More-Than-Ever-When-Shopping-Apparel-41217835"
+    },
+    {
+      "id": "144",
+      "date": "2016-05-05T06:30:58-07:00",
+      "title": "88% Of Millennial Women Purchase Apparel Based On Influencer Recommendations",
+      "tagId": "10",
+      "link": "http://insights.popsugar.com/88-Millennial-Women-Purchase-Apparel-Based-Influencer-Recommendations-41202539"
+    },
+    {
+      "id": "145",
+      "date": "2016-05-04T07:18:39-07:00",
+      "title": "Millennial Women See Themselves As Style Icons",
+      "tagId": "10",
+      "link": "http://insights.popsugar.com/Millennial-Women-See-Themselves-Style-Icons-41189654"
+    },
+    {
+      "id": "146",
+      "date": "2016-05-03T06:39:44-07:00",
+      "title": "Millennial Women Seek Out Discounts & Free Shipping When Shopping Online",
+      "tagId": "10",
+      "link": "http://insights.popsugar.com/Millennial-Women-Seek-Out-Discounts-Free-Shipping-When-Shopping-Online-41175563"
+    },
+    {
+      "id": "147",
+      "date": "2016-04-29T10:02:58-07:00",
+      "title": "4 In 10 Millennial Women Frequently Use Their Mobile Device While Shopping",
+      "tagId": "10",
+      "link": "http://insights.popsugar.com/4-10-Millennial-Women-Frequently-Use-Mobile-Device-While-Shopping-41117321"
+    },
+    {
+      "id": "148",
+      "date": "2016-04-28T13:08:42-07:00",
+      "title": "78% Of Millennial Women Have Purchased Apparel In The Past Month",
+      "tagId": "10",
+      "link": "http://insights.popsugar.com/78-Millennial-Women-Have-Purchased-Apparel-Past-Month-41106663"
+    },
+    {
+      "id": "149",
+      "date": "2015-12-01T09:56:03-08:00",
+      "title": "Digital Content Fuels Human Happiness",
+      "tagId": "11",
+      "link": "http://insights.popsugar.com/Digital-Content-Fuels-Human-Happiness-39257725"
+    },
+    {
+      "id": "150",
+      "date": "2015-06-25T13:01:28-07:00",
+      "title": "63% Of Women Say Looking Good Makes Them Happy",
+      "tagId": "11",
+      "link": "http://insights.popsugar.com/63-Women-Say-Looking-Good-Makes-Them-Happy-37779008"
+    },
+    {
+      "id": "151",
+      "date": "2015-06-24T10:34:04-07:00",
+      "title": "What Makes Women Happy When Clothes Shopping",
+      "tagId": "11",
+      "link": "http://insights.popsugar.com/What-Makes-Women-Happy-When-Clothes-Shopping-37769861"
+    },
+    {
+      "id": "152",
+      "date": "2015-06-23T09:49:55-07:00",
+      "title": "78% Of Women Say Trust In Relationships Makes Them Happy",
+      "tagId": "11",
+      "link": "http://insights.popsugar.com/78-Women-Say-Trust-Relationships-Makes-Them-Happy-37761883"
+    },
+    {
+      "id": "153",
+      "date": "2015-06-22T09:47:26-07:00",
+      "title": "Lifestyle Content Trends — Food",
+      "tagId": "11",
+      "link": "http://insights.popsugar.com/Lifestyle-Content-Trends-Food-37754196"
+    },
+    {
+      "id": "154",
+      "date": "2015-06-19T09:37:30-07:00",
+      "title": "Lifestyle Content Trends By Device Type",
+      "tagId": "11",
+      "link": "http://insights.popsugar.com/Lifestyle-Content-Trends-Device-Type-37738723"
+    },
+    {
+      "id": "155",
+      "date": "2015-06-18T11:11:41-07:00",
+      "title": "Lifestyle Content Trends — Fitness",
+      "tagId": "11",
+      "link": "http://insights.popsugar.com/Lifestyle-Content-Trends-Fitness-37732676"
+    },
+    {
+      "id": "156",
+      "date": "2015-06-17T10:19:56-07:00",
+      "title": "Lifestyle Content Trends — Fashion",
+      "tagId": "11",
+      "link": "http://insights.popsugar.com/Lifestyle-Content-Trends-Fashion-37723846"
+    },
+    {
+      "id": "157",
+      "date": "2015-06-16T09:10:53-07:00",
+      "title": "56% Of Moms Seek Out Expert Advice",
+      "tagId": "11",
+      "link": "http://insights.popsugar.com/56-Moms-Seek-Out-Expert-Advice-37714744"
+    },
+    {
+      "id": "158",
+      "date": "2015-06-15T09:58:15-07:00",
+      "title": "4 In 10 Women Share Content To Stay Connected",
+      "tagId": "11",
+      "link": "http://insights.popsugar.com/4-10-Women-Share-Content-Stay-Connected-37705072"
+    },
+    {
+      "id": "159",
+      "date": "2015-06-12T13:41:24-07:00",
+      "title": "80% Of Younger Millennial Women Believe Technology Makes Them Happy",
+      "tagId": "11",
+      "link": "http://insights.popsugar.com/80-Younger-Millennial-Women-Believe-Technology-Makes-Them-Happy-37691567"
+    },
+    {
+      "id": "160",
+      "date": "2015-06-11T09:39:52-07:00",
+      "title": "Wearables, Smart Devices, And Women — Ownership And Shopping Preferences",
+      "tagId": "11",
+      "link": "http://insights.popsugar.com/Wearables-Smart-Devices-Women-Ownership-Shopping-Preferences-37682242"
+    },
+    {
+      "id": "161",
+      "date": "2015-06-10T11:34:40-07:00",
+      "title": "Her Connected Life: How Women Use Technology To Find Happiness",
+      "tagId": "11",
+      "link": "http://insights.popsugar.com/Her-Connected-Life-How-Women-Use-Technology-Find-Happiness-37675496"
+    },
+    {
+      "id": "162",
+      "date": "2015-06-09T10:14:02-07:00",
+      "title": "Female Social Sharing Trends",
+      "tagId": "11",
+      "link": "http://insights.popsugar.com/Female-Social-Sharing-Trends-37666807"
+    },
+    {
+      "id": "163",
+      "date": "2015-06-08T11:38:49-07:00",
+      "title": "57% Of Women Spend Their “Me Time” Shopping Online",
+      "tagId": "11",
+      "link": "http://insights.popsugar.com/57-Women-Spend-Me-Time-Shopping-Online-37659543"
+    },
+    {
+      "id": "164",
+      "date": "2015-06-05T07:05:02-07:00",
+      "title": "Social Media Most Influential Source Of Lifestyle Content For Women",
+      "tagId": "11",
+      "link": "http://insights.popsugar.com/Social-Media-Most-Influential-Source-Lifestyle-Content-Women-37642066"
+    },
+    {
+      "id": "165",
+      "date": "2015-06-03T07:59:00-07:00",
+      "title": "76% Of Women Say Personal Connections Make Them Happy",
+      "tagId": "11",
+      "link": "http://insights.popsugar.com/76-Women-Say-Personal-Connections-Make-Them-Happy-37628351"
+    },
+    {
+      "id": "166",
+      "date": "2015-06-02T08:11:42-07:00",
+      "title": "What Makes Women Happiest In Tech",
+      "tagId": "11",
+      "link": "http://insights.popsugar.com/What-Makes-Women-Happiest-Tech-37619492"
+    },
+    {
+      "id": "167",
+      "date": "2015-05-29T14:30:12-07:00",
+      "title": "The Benefits Of Wearables, Smart Devices, And Happiness",
+      "tagId": "11",
+      "link": "http://insights.popsugar.com/Benefits-Wearables-Smart-Devices-Happiness-37596088"
+    },
+    {
+      "id": "168",
+      "date": "2015-05-28T12:27:54-07:00",
+      "title": "62% Of Women Say Easily Finding Info Makes Them Happy With Technology",
+      "tagId": "11",
+      "link": "http://insights.popsugar.com/62-Women-Say-Easily-Finding-Info-Makes-Them-Happy-Technology-37588287"
+    },
+    {
+      "id": "169",
+      "date": "2015-05-26T13:01:26-07:00",
+      "title": "Stress, Money, Confidence — Women Share What Keeps Them From Feeling Happy",
+      "tagId": "11",
+      "link": "http://insights.popsugar.com/Stress-Money-Confidence-Women-Share-What-Keeps-Them-From-Feeling-Happy-37570455"
+    },
+    {
+      "id": "170",
+      "date": "2015-05-22T08:50:38-07:00",
+      "title": "What Makes Women Happiest In Entertainment (TV And Movies)",
+      "tagId": "11",
+      "link": "http://insights.popsugar.com/What-Makes-Women-Happiest-Entertainment-TV-Movies-37546854"
+    },
+    {
+      "id": "171",
+      "date": "2015-05-21T14:33:08-07:00",
+      "title": "85% Of Women Put Their Children’s Happiness First",
+      "tagId": "11",
+      "link": "http://insights.popsugar.com/85-Women-Put-Childrens-Happiness-First-37541877"
+    },
+    {
+      "id": "172",
+      "date": "2015-05-20T12:08:21-07:00",
+      "title": "Nearly 7 In 10 Women Feel They Have A “Really Good Life”",
+      "tagId": "11",
+      "link": "http://insights.popsugar.com/Nearly-7-10-Women-Feel-Have-Really-Good-Life-37531424"
+    },
+    {
+      "id": "173",
+      "date": "2015-05-19T09:22:07-07:00",
+      "title": "9 In 10 Women Say Experiences Makes Them Happy",
+      "tagId": "11",
+      "link": "http://insights.popsugar.com/9-10-Women-Say-Experiences-Makes-Them-Happy-37519397"
+    },
+    {
+      "id": "174",
+      "date": "2015-05-15T08:57:40-07:00",
+      "title": "86% Of Women Are Happy With Their Role As Parents",
+      "tagId": "11",
+      "link": "http://insights.popsugar.com/86-Women-Happy-Role-Parents-37490074"
+    },
+    {
+      "id": "175",
+      "date": "2015-05-14T11:51:03-07:00",
+      "title": "What Makes Women Happy In Exercise And Fitness",
+      "tagId": "11",
+      "link": "http://insights.popsugar.com/What-Makes-Women-Happy-Exercise-Fitness-37483036"
+    },
+    {
+      "id": "176",
+      "date": "2015-05-12T09:13:04-07:00",
+      "title": "What Makes Women Happy In Food And Beverages",
+      "tagId": "11",
+      "link": "http://insights.popsugar.com/What-Makes-Women-Happy-Food-Beverages-37465525"
+    },
+    {
+      "id": "177",
+      "date": "2015-05-11T10:10:55-07:00",
+      "title": "Stress Zones: The Roadblocks Women Face On The Road To Happiness",
+      "tagId": "11",
+      "link": "http://insights.popsugar.com/Stress-Zones-Roadblocks-Women-Face-Road-Happiness-37457590"
+    },
+    {
+      "id": "178",
+      "date": "2015-05-07T12:01:18-07:00",
+      "title": "What Makes Women Happy In Fashion And Style",
+      "tagId": "11",
+      "link": "http://insights.popsugar.com/What-Makes-Women-Happy-Fashion-Style-37435206"
+    },
+    {
+      "id": "179",
+      "date": "2015-05-06T10:39:25-07:00",
+      "title": "4 In 10 Women Consider Happiness A State Of Being",
+      "tagId": "11",
+      "link": "http://insights.popsugar.com/4-10-Women-Consider-Happiness-State-Being-37426664"
+    },
+    {
+      "id": "180",
+      "date": "2014-04-21T08:14:13-07:00",
+      "title": "43% Of Women Will Celebrate Summer With New Outfit",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/43-Women-Celebrate-Summer-New-Outfit-34588573"
+    },
+    {
+      "id": "181",
+      "date": "2014-04-18T08:57:48-07:00",
+      "title": "66% Of Women Plan To Work Out More This Summer",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/66-Women-Plan-Work-Out-More-Summer-34588725"
+    },
+    {
+      "id": "182",
+      "date": "2014-04-17T09:04:01-07:00",
+      "title": "The Rise Of Charity Driven Gyms",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Rise-Charity-Driven-Gyms-34597600"
+    },
+    {
+      "id": "183",
+      "date": "2014-04-16T08:45:24-07:00",
+      "title": "85% Of Women Stuck To Their 2014 New Year’s Health Resolutions",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/85-Women-Stuck-2014-New-Years-Health-Resolutions-34588574"
+    },
+    {
+      "id": "184",
+      "date": "2014-04-15T11:46:16-07:00",
+      "title": "69% Of Women Made New Year’s Health Resolutions In 2014",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/69-Women-Made-New-Years-Health-Resolutions-2014-34588542"
+    },
+    {
+      "id": "185",
+      "date": "2014-03-24T09:06:50-07:00",
+      "title": "Why Grains Are Unhealthy",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Why-Grains-Unhealthy-34395423"
+    },
+    {
+      "id": "186",
+      "date": "2014-03-20T08:59:55-07:00",
+      "title": "The Raw Food Diet",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Raw-Food-Diet-33884400"
+    },
+    {
+      "id": "187",
+      "date": "2014-03-19T09:26:10-07:00",
+      "title": "Cash Incentives Can Help Women Achieve Their Fitness Goals",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Cash-Incentives-Can-Help-Women-Achieve-Fitness-Goals-33884471"
+    },
+    {
+      "id": "188",
+      "date": "2014-03-12T05:51:09-07:00",
+      "title": "10 Best Resistance-Band Strengthening Exercises",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/10-Best-Resistance-Band-Strengthening-Exercises-33881988"
+    },
+    {
+      "id": "189",
+      "date": "2014-03-11T08:12:06-07:00",
+      "title": "60% Of Personal Goals Are Health & Fitness Related",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/60-Personal-Goals-Health-Fitness-Related-33881796"
+    },
+    {
+      "id": "190",
+      "date": "2014-03-10T08:39:19-07:00",
+      "title": "5 Exercises To Reverse Your Posture And Feel Better Today",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/5-Exercises-Reverse-Your-Posture-Feel-Better-Today-33532586"
+    },
+    {
+      "id": "191",
+      "date": "2014-03-06T05:30:17-08:00",
+      "title": "In Her Words: What Does Healthy Living Mean To Women?",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Her-Words-What-Does-Healthy-Living-Mean-Women-33553320"
+    },
+    {
+      "id": "192",
+      "date": "2014-03-05T06:29:25-08:00",
+      "title": "Topic Of Interest: The Everyday Exercise Movement",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Topic-Interest-Everyday-Exercise-Movement-33553304"
+    },
+    {
+      "id": "193",
+      "date": "2014-03-04T05:57:04-08:00",
+      "title": "Topic Of Interest: The Living Clean Movement",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Topic-Interest-Living-Clean-Movement-33553254"
+    },
+    {
+      "id": "194",
+      "date": "2014-03-03T06:40:20-08:00",
+      "title": "Topics Of Interest: Laughing, Sleeping, And Eating",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Topics-Interest-Laughing-Sleeping-Eating-33553242"
+    },
+    {
+      "id": "195",
+      "date": "2014-02-27T05:11:50-08:00",
+      "title": "Get Involved: How Women Connect To Causes",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Get-Involved-How-Women-Connect-Causes-33553200"
+    },
+    {
+      "id": "196",
+      "date": "2014-02-25T08:50:43-08:00",
+      "title": "Editor For A Day: Healthy Living Content By Women For Women",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Editor-Day-Healthy-Living-Content-Women-Women-33553171"
+    },
+    {
+      "id": "197",
+      "date": "2014-02-24T09:40:43-08:00",
+      "title": "Going Mobile: How Brands Can Connect With Mobile Women",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Going-Mobile-How-Brands-Can-Connect-Mobile-Women-33552959"
+    },
+    {
+      "id": "198",
+      "date": "2014-02-21T08:41:59-08:00",
+      "title": "Why Women Set Goals & How Brands Can Inform And Inspire",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Why-Women-Set-Goals-How-Brands-Can-Inform-Inspire-33552861"
+    },
+    {
+      "id": "199",
+      "date": "2014-02-20T08:37:59-08:00",
+      "title": "Now We Are 3: How Moms Can Achieve Balance",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Now-We-3-How-Moms-Can-Achieve-Balance-33552793"
+    },
+    {
+      "id": "200",
+      "date": "2014-02-19T09:02:59-08:00",
+      "title": "Only 1/2 Of Women Are Happy With Their Exercise Routines",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Only-12-Women-Happy-Exercise-Routines-33552711"
+    },
+    {
+      "id": "201",
+      "date": "2014-02-18T09:07:40-08:00",
+      "title": "Keeping It Fresh: 62% Of Women Seek Fitness Inspiration",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Keeping-Fresh-62-Women-Seek-Fitness-Inspiration-33552702"
+    },
+    {
+      "id": "202",
+      "date": "2014-02-17T12:29:13-08:00",
+      "title": "MediaPost: Brands Can Help Women Achieve A 'Nourished Life'",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/MediaPost-Brands-Can-Help-Women-Achieve-Nourished-Life-34072517"
+    },
+    {
+      "id": "203",
+      "date": "2014-02-17T08:57:23-08:00",
+      "title": "Winner’s Mindset",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Winners-Mindset-33882545"
+    },
+    {
+      "id": "204",
+      "date": "2014-02-14T00:00:00-08:00",
+      "title": "Why February Is The Most Important Month For Your Health",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Why-February-Most-Important-Month-Your-Health-34340693"
+    },
+    {
+      "id": "205",
+      "date": "2014-02-13T07:49:06-08:00",
+      "title": "Women Share Areas Where They’d Love Professional Help",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Women-Share-Areas-Where-d-Love-Professional-Help-33552550"
+    },
+    {
+      "id": "206",
+      "date": "2014-02-12T07:48:34-08:00",
+      "title": "75% Of Women Have Taken Vitamin Supplements",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/75-Women-Have-Taken-Vitamin-Supplements-33552493"
+    },
+    {
+      "id": "207",
+      "date": "2014-02-11T08:26:10-08:00",
+      "title": "Why Women Exercise: Motivations And Benefits",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Why-Women-Exercise-Motivations-Benefits-33552462"
+    },
+    {
+      "id": "208",
+      "date": "2014-02-10T10:26:21-08:00",
+      "title": "Fine Tuning: 11 Tips To Take Your Workouts To The Next Level",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Fine-Tuning-11-Tips-Take-Your-Workouts-Next-Level-33532576"
+    },
+    {
+      "id": "209",
+      "date": "2014-02-10T10:25:37-08:00",
+      "title": "68% Of Women Admit To Overeating When They Feel Stressed",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/68-Women-Admit-Overeating-When-Feel-Stressed-33552429"
+    },
+    {
+      "id": "210",
+      "date": "2014-02-07T08:57:18-08:00",
+      "title": "Dinner For Two: Women Dish On Best Parts Of Relationships",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Dinner-Two-Women-Dish-Best-Parts-Relationships-33552371"
+    },
+    {
+      "id": "211",
+      "date": "2014-02-07T08:56:52-08:00",
+      "title": "Do You Want Instant Health?",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Do-You-Want-Instant-Health-33532520"
+    },
+    {
+      "id": "212",
+      "date": "2014-02-05T10:19:41-08:00",
+      "title": "Women Share Keys To A Successful Relationship",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Women-Share-Keys-Successful-Relationship-33552332"
+    },
+    {
+      "id": "213",
+      "date": "2014-02-05T10:19:18-08:00",
+      "title": "To Work Out, Or Not To Work Out: That Is The Question",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Work-Out-Work-Out-Question-33532793"
+    },
+    {
+      "id": "214",
+      "date": "2014-02-03T12:34:16-08:00",
+      "title": "The Trend To Gluten Free",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Trend-Gluten-Free-33532670"
+    },
+    {
+      "id": "215",
+      "date": "2014-01-31T12:37:22-08:00",
+      "title": "What Women Look For In A Brand",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/What-Women-Look-Brand-33532741"
+    },
+    {
+      "id": "216",
+      "date": "2014-01-30T15:45:10-08:00",
+      "title": "The POPSUGAR Insights Healthy Living Handbook",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/POPSUGAR-Insights-Healthy-Living-Handbook-33833303"
+    },
+    {
+      "id": "217",
+      "date": "2014-01-30T08:36:30-08:00",
+      "title": "77% Of Women See Financial Security As Indicator Of Success",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/77-Women-See-Financial-Security-Indicator-Success-33552382"
+    },
+    {
+      "id": "218",
+      "date": "2014-01-30T08:36:12-08:00",
+      "title": "Lifestyle Intervention Beats Diet For Weight Loss: 6 Simple Changes To Make Today",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Lifestyle-Intervention-Beats-Diet-Weight-Loss-6-Simple-Changes-Make-Today-33532388"
+    },
+    {
+      "id": "219",
+      "date": "2014-01-29T09:11:09-08:00",
+      "title": "Healthy Foods, Beauty Products Drive Women To Spend",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Healthy-Foods-Beauty-Products-Drive-Women-Spend-33552202"
+    },
+    {
+      "id": "220",
+      "date": "2014-01-28T10:54:09-08:00",
+      "title": "Give Me A Break: Only 1% Of Women Aren't Stressed Out",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Give-Me-Break-Only-1-Women-Arent-Stressed-Out-33532704"
+    },
+    {
+      "id": "221",
+      "date": "2014-01-28T10:53:46-08:00",
+      "title": "Total Body Tune-Up: Top 5 Reasons Your Body Loves A Detox",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Total-Body-Tune-Up-Top-5-Reasons-Your-Body-Loves-Detox-33532229"
+    },
+    {
+      "id": "222",
+      "date": "2014-01-18T18:55:03-08:00",
+      "title": "Stretching With Susi May, POPSUGAR Fitness Director",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Stretching-Susi-May-POPSUGAR-Fitness-Director-33499194"
+    },
+    {
+      "id": "223",
+      "date": "2014-01-18T18:52:58-08:00",
+      "title": "4 Factors Driving The Female Fitness Revolution",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/4-Factors-Driving-Female-Fitness-Revolution-33532853"
+    },
+    {
+      "id": "224",
+      "date": "2014-01-18T18:51:50-08:00",
+      "title": "Female Band Training: Training Tips And Recommendations",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Female-Band-Training-Training-Tips-Recommendations-33532904"
+    },
+    {
+      "id": "225",
+      "date": "2014-01-18T18:49:54-08:00",
+      "title": "Hanging With Rebecca Gruber, POPSUGAR Moms Editor",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Hanging-Rebecca-Gruber-POPSUGAR-Moms-Editor-33534663"
+    },
+    {
+      "id": "226",
+      "date": "2014-01-18T18:47:56-08:00",
+      "title": "What's Cooking With Susannah Chen, POPSUGAR Food EDITOR",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/What-Cooking-Susannah-Chen-POPSUGAR-Food-EDITOR-33534781"
+    },
+    {
+      "id": "227",
+      "date": "2014-01-18T18:46:50-08:00",
+      "title": "Lifehacking With Emily Co, Editor Of POPSUGAR Smart Living",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Lifehacking-Emily-Co-Editor-POPSUGAR-Smart-Living-33534944"
+    },
+    {
+      "id": "228",
+      "date": "2014-01-18T18:44:37-08:00",
+      "title": "10 Simple Fit Female Nutrition Rules",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/10-Simple-Fit-Female-Nutrition-Rules-33532713"
+    },
+    {
+      "id": "229",
+      "date": "2014-01-18T18:43:32-08:00",
+      "title": "Do You Have Your New Years Resolutions All Set?",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Do-You-Have-Your-New-Years-Resolutions-All-Set-33532402"
+    },
+    {
+      "id": "230",
+      "date": "2014-01-18T18:40:22-08:00",
+      "title": "Top 3 Trends In Fitness For 2014",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Top-3-Trends-Fitness-2014-33532198"
+    },
+    {
+      "id": "231",
+      "date": "2014-01-08T11:28:06-08:00",
+      "title": "92% Of Women Would Exercise Daily To Live 10 Years Longer",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/92-Women-Would-Exercise-Daily-Live-10-Years-Longer-33385526"
+    },
+    {
+      "id": "232",
+      "date": "2014-01-08T11:24:26-08:00",
+      "title": "Friends, Family & Trial Drive Healthy Living Product Adoption",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Friends-Family-Trial-Drive-Healthy-Living-Product-Adoption-33385480"
+    },
+    {
+      "id": "233",
+      "date": "2014-01-08T10:59:04-08:00",
+      "title": "Women Prefer Personal Trainers Over Other Luxuries",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Women-Prefer-Personal-Trainers-over-Other-Luxuries-33384983"
+    },
+    {
+      "id": "234",
+      "date": "2014-01-08T10:53:16-08:00",
+      "title": "96% Of Women Say Trust Is Important When Considering A Brand",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/96-Women-Say-Trust-Important-When-Considering-Brand-33384914"
+    },
+    {
+      "id": "235",
+      "date": "2014-01-08T10:38:58-08:00",
+      "title": "Women Expect Brands To Support Their Healthy Lifestyle",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Women-Expect-Brands-Support-Healthy-Lifestyle-33384736"
+    },
+    {
+      "id": "236",
+      "date": "2014-01-08T10:25:08-08:00",
+      "title": "71% Of Women Say Coupons Most Effective Marketing Strategy",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/71-Women-Say-Coupons-Most-Effective-Marketing-Strategy-33384527"
+    },
+    {
+      "id": "237",
+      "date": "2014-01-08T10:20:33-08:00",
+      "title": "Influencers: Women Value Topical Expertise Over Celebrity",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Influencers-Women-Value-Topical-Expertise-over-Celebrity-33384441"
+    },
+    {
+      "id": "238",
+      "date": "2014-01-08T10:15:43-08:00",
+      "title": "Time Well Spent: Healthy Living Content Consumption Patterns",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Time-Well-Spent-Healthy-Living-Content-Consumption-Patterns-33384365"
+    },
+    {
+      "id": "239",
+      "date": "2014-01-08T10:11:00-08:00",
+      "title": "Device Preferences For Consuming Healthy Living Content",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Device-Preferences-Consuming-Healthy-Living-Content-33384260"
+    },
+    {
+      "id": "240",
+      "date": "2014-01-08T10:03:56-08:00",
+      "title": "Check This Out: 55% Of Women Share Meaningful Content",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Check-Out-55-Women-Share-Meaningful-Content-33384129"
+    },
+    {
+      "id": "241",
+      "date": "2014-01-07T10:29:23-08:00",
+      "title": "Trust Matters: 94% Of Women Prefer To Purchase Honest Brands",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Trust-Matters-94-Women-Prefer-Purchase-Honest-Brands-33363280"
+    },
+    {
+      "id": "242",
+      "date": "2014-01-07T10:01:56-08:00",
+      "title": "I \"Like\" This: Social Media Influences Sales",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/I-Like-Social-Media-Influences-Sales-33362657"
+    },
+    {
+      "id": "243",
+      "date": "2014-01-07T09:56:11-08:00",
+      "title": "Prime Time: Women Expect To Feel Their Best At 50+",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Prime-Time-Women-Expect-Feel-Best-50-33362579"
+    },
+    {
+      "id": "244",
+      "date": "2014-01-07T09:52:21-08:00",
+      "title": "Mirror Mirror: What Women Obsess About Most",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Mirror-Mirror-What-Women-Obsess-about-Most-33362508"
+    },
+    {
+      "id": "245",
+      "date": "2014-01-07T09:48:52-08:00",
+      "title": "Under The Knife? Women's Views On Plastic Surgery",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Under-Knife-Women-Views-Plastic-Surgery-33362441"
+    },
+    {
+      "id": "246",
+      "date": "2014-01-07T09:43:04-08:00",
+      "title": "What Women Want: 5 Most Important Desires",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/What-Women-Want-5-Most-Important-Desires-33362413"
+    },
+    {
+      "id": "247",
+      "date": "2014-01-07T09:39:09-08:00",
+      "title": "State Of The Union: 83% Of Women Say They Have A Great Life",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/State-Union-83-Women-Say-Have-Great-Life-33362367"
+    },
+    {
+      "id": "248",
+      "date": "2014-01-07T09:35:28-08:00",
+      "title": "Time & Energy: Women Share Roadblocks To Living Healthy",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Time-Energy-Women-Share-Roadblocks-Living-Healthy-33362303"
+    },
+    {
+      "id": "249",
+      "date": "2014-01-07T09:31:12-08:00",
+      "title": "I Will Survive: Songs Of Inspiration For Living Healthy",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/I-Survive-Songs-Inspiration-Living-Healthy-33362279"
+    },
+    {
+      "id": "250",
+      "date": "2014-01-06T12:24:41-08:00",
+      "title": "\"A Nourished Life\": POPSUGAR Insights 2014 Healthy Living Report",
+      "tagId": "12",
+      "link": "http://insights.popsugar.com/Nourished-Life-POPSUGAR-Insights-2014-Healthy-Living-Report-33343782"
+    },
+    {
+      "id": "251",
+      "date": "2014-02-11T11:13:22-08:00",
+      "title": "ShopStyle Releases 2013 Insights Report",
+      "tagId": "13",
+      "link": "http://insights.popsugar.com/ShopStyle-Releases-2013-Insights-Report-33993171"
+    },
+    {
+      "id": "252",
+      "date": "2013-12-23T14:39:33-08:00",
+      "title": "Couch Commerce Goes Primetime: Holiday Retail Roundup",
+      "tagId": "13",
+      "link": "http://insights.popsugar.com/Couch-Commerce-Goes-Primetime-Holiday-Retail-Roundup-33111432"
+    },
+    {
+      "id": "253",
+      "date": "2013-12-23T14:29:52-08:00",
+      "title": "Fewer Tricks, More Treats For Holiday Shoppers This Year",
+      "tagId": "13",
+      "link": "http://insights.popsugar.com/Fewer-Tricks-More-Treats-Holiday-Shoppers-Year-33111367"
+    },
+    {
+      "id": "254",
+      "date": "2013-11-20T12:47:41-08:00",
+      "title": "'Tis The Season To Shop: 2013 Holiday Shopping Report",
+      "tagId": "13",
+      "link": "http://insights.popsugar.com/Tis-Season-Shop-2013-Holiday-Shopping-Report-32549557"
+    },
+    {
+      "id": "255",
+      "date": "2013-11-19T12:10:41-08:00",
+      "title": "Catching Fire: Where Women Find Holiday Inspiration",
+      "tagId": "13",
+      "link": "http://insights.popsugar.com/Catching-Fire-Where-Women-Find-Holiday-Inspiration-32535747"
+    },
+    {
+      "id": "256",
+      "date": "2013-11-19T12:07:35-08:00",
+      "title": "Joy To The World: 71% Of Women Love Holiday Shopping",
+      "tagId": "13",
+      "link": "http://insights.popsugar.com/Joy-World-71-Women-Love-Holiday-Shopping-32536173"
+    },
+    {
+      "id": "257",
+      "date": "2013-11-19T11:59:29-08:00",
+      "title": "70% Of Women Want Shopping Notifications This Holiday",
+      "tagId": "13",
+      "link": "http://insights.popsugar.com/70-Women-Want-Shopping-Notifications-Holiday-32536085"
+    },
+    {
+      "id": "258",
+      "date": "2013-11-19T11:40:43-08:00",
+      "title": "The Comforts Of Home: Over 80% Of Women Shop From Home",
+      "tagId": "13",
+      "link": "http://insights.popsugar.com/Comforts-Home-Over-80-Women-Shop-From-Home-32535842"
+    },
+    {
+      "id": "259",
+      "date": "2013-11-19T11:29:14-08:00",
+      "title": "Merry Xmas To Me: 80% Of Women Self-Gifting This Year",
+      "tagId": "13",
+      "link": "http://insights.popsugar.com/Merry-Xmas-Me-80-Women-Self-Gifting-Year-32535691"
+    },
+    {
+      "id": "260",
+      "date": "2013-11-19T11:15:30-08:00",
+      "title": "62% Of Women Don't Know What To Buy For Their Parents",
+      "tagId": "13",
+      "link": "http://insights.popsugar.com/62-Women-Dont-Know-What-Buy-Parents-32535598"
+    },
+    {
+      "id": "261",
+      "date": "2013-11-11T10:24:57-08:00",
+      "title": "42% Of Women Begin Holiday Shopping On Or Before Halloween",
+      "tagId": "13",
+      "link": "http://insights.popsugar.com/42-Women-Begin-Holiday-Shopping-Before-Halloween-32407760"
+    },
+    {
+      "id": "262",
+      "date": "2013-11-08T12:52:15-08:00",
+      "title": "90% Of Women Plan To Buy More Or Same Amount Of Gifts",
+      "tagId": "13",
+      "link": "http://insights.popsugar.com/90-Women-Plan-Buy-More-Same-Amount-Gifts-32386658"
+    },
+    {
+      "id": "263",
+      "date": "2013-11-08T12:39:22-08:00",
+      "title": "Follow My Lead: 79% Of Women Are Holiday Gift Influencers",
+      "tagId": "13",
+      "link": "http://insights.popsugar.com/Follow-My-Lead-79-Women-Holiday-Gift-Influencers-32386589"
+    },
+    {
+      "id": "264",
+      "date": "2016-03-11T10:58:23-08:00",
+      "title": "Latinas 24% More Likely To Watch Videos On Social Media And Share Content To Stay Connected",
+      "tagId": "14",
+      "link": "http://insights.popsugar.com/Latinas-24-More-Likely-Watch-Videos-Social-Media-Share-Content-Stay-Connected-40533195"
+    },
+    {
+      "id": "265",
+      "date": "2016-03-10T10:15:03-08:00",
+      "title": "Latina Moms Love Facebook, Latina Millennials Prefer Snapchat",
+      "tagId": "14",
+      "link": "http://insights.popsugar.com/Latina-Moms-Love-Facebook-Latina-Millennials-Prefer-Snapchat-40519120"
+    },
+    {
+      "id": "266",
+      "date": "2016-03-09T11:34:52-08:00",
+      "title": "Q&A With Deborah Cruz From The Truth",
+      "tagId": "14",
+      "link": "http://insights.popsugar.com/Q-Deborah-Cruz-from-Truth-40504843"
+    },
+    {
+      "id": "267",
+      "date": "2016-03-08T09:08:49-08:00",
+      "title": "Q&A With Tania Luviano From Latina Mom TV",
+      "tagId": "14",
+      "link": "http://insights.popsugar.com/Q-Tania-Luviano-from-Latina-Mom-TV-40486365"
+    },
+    {
+      "id": "268",
+      "date": "2016-03-04T10:04:06-08:00",
+      "title": "Q&A With Mar Yvette From Marpop",
+      "tagId": "14",
+      "link": "http://insights.popsugar.com/Q-Mar-Yvette-from-Marpop-40441997"
+    },
+    {
+      "id": "269",
+      "date": "2016-02-25T12:07:27-08:00",
+      "title": "Q&A With Mari Hernandez-Tuten From Inspired By Familia",
+      "tagId": "14",
+      "link": "http://insights.popsugar.com/Q-Mari-Hernandez-Tuten-from-Inspired-Familia-40331610"
+    },
+    {
+      "id": "270",
+      "date": "2016-02-22T14:58:23-08:00",
+      "title": "Q&A With Naty Michele From A Love Affair With Fashion",
+      "tagId": "14",
+      "link": "http://insights.popsugar.com/Q-Naty-Michele-from-Love-Affair-Fashion-40289968"
+    },
+    {
+      "id": "271",
+      "date": "2016-02-18T12:44:01-08:00",
+      "title": "Q&A With Daniela Ramirez From NanysKlozet",
+      "tagId": "14",
+      "link": "http://insights.popsugar.com/Q-Daniela-Ramirez-from-NanysKlozet-40242188"
+    },
+    {
+      "id": "272",
+      "date": "2016-02-10T14:35:58-08:00",
+      "title": "Q&A With Daily Baez From DailyCurlz",
+      "tagId": "14",
+      "link": "http://insights.popsugar.com/Q-Daily-Baez-from-DailyCurlz-40139849"
+    },
+    {
+      "id": "273",
+      "date": "2015-12-23T14:58:17-08:00",
+      "title": "Over Half Of Latinas Influenced By Topic Experts",
+      "tagId": "14",
+      "link": "http://insights.popsugar.com/Over-Half-Latinas-Influenced-Topic-Experts-39530304"
+    },
+    {
+      "id": "274",
+      "date": "2015-12-21T11:12:29-08:00",
+      "title": "Latinas Are Hyperinfluencers",
+      "tagId": "14",
+      "link": "http://insights.popsugar.com/Latinas-Hyperinfluencers-39493541"
+    },
+    {
+      "id": "275",
+      "date": "2015-12-16T11:50:50-08:00",
+      "title": "How Culture Influences Trust For Latinas",
+      "tagId": "14",
+      "link": "http://insights.popsugar.com/How-Culture-Influences-Trust-Latinas-39426951"
+    },
+    {
+      "id": "276",
+      "date": "2015-12-04T09:36:05-08:00",
+      "title": "Q&A With Miguel Ferrer",
+      "tagId": "14",
+      "link": "http://insights.popsugar.com/Q-Miguel-Ferrer-39294889"
+    },
+    {
+      "id": "277",
+      "date": "2015-12-01T10:47:33-08:00",
+      "title": "The Positives And Negatives Of Being A Latina In The United States",
+      "tagId": "14",
+      "link": "http://insights.popsugar.com/Positives-Negatives-Being-Latina-United-States-39151354"
+    },
+    {
+      "id": "278",
+      "date": "2015-11-18T08:31:57-08:00",
+      "title": "14 Things Brands Need To Know About Millennial Latinas",
+      "tagId": "14",
+      "link": "http://insights.popsugar.com/14-Things-Brands-Need-Know-About-Millennial-Latinas-39125536"
+    },
+    {
+      "id": "279",
+      "date": "2015-11-17T09:32:48-08:00",
+      "title": "Q&A With Amy Dubois Barnett",
+      "tagId": "14",
+      "link": "http://insights.popsugar.com/Q-Amy-Dubois-Barnett-39113619"
+    },
+    {
+      "id": "280",
+      "date": "2015-11-06T13:28:03-08:00",
+      "title": "Q&A With Lucia Ballas-Traynor",
+      "tagId": "14",
+      "link": "http://insights.popsugar.com/Q-Lucia-Ballas-Traynor-39010834"
+    },
+    {
+      "id": "281",
+      "date": "2015-09-28T09:43:40-07:00",
+      "title": "Hypercultural Latinas",
+      "tagId": "14",
+      "link": "http://insights.popsugar.com/Hypercultural-Latinas-38576945"
+    },
+    {
+      "id": "282",
+      "date": "2014-08-25T10:56:43-07:00",
+      "title": "An Interview With Bryan Noguchi - SVP, Media Director For R2C Group",
+      "tagId": "15",
+      "link": "http://insights.popsugar.com/Interview-Bryan-Noguchi---SVP-Media-Director-R2C-Group-35529921"
+    },
+    {
+      "id": "283",
+      "date": "2014-08-06T09:30:30-07:00",
+      "title": "How Brands Can Spark An Emotional Connection With Women Via Video",
+      "tagId": "15",
+      "link": "http://insights.popsugar.com/How-Brands-Can-Spark-Emotional-Connection-Women-Via-Video-34843588"
+    },
+    {
+      "id": "284",
+      "date": "2014-07-30T09:24:48-07:00",
+      "title": "An Interview With Lin Dai, CMO Of Keek",
+      "tagId": "15",
+      "link": "http://insights.popsugar.com/Interview-Lin-Dai-CMO-Keek-35368228"
+    },
+    {
+      "id": "285",
+      "date": "2014-07-22T10:39:10-07:00",
+      "title": "To Succeed With Millennials, Content Marketing Must Be Authentic, Personal & Inspired",
+      "tagId": "15",
+      "link": "http://insights.popsugar.com/Succeed-Millennials-Content-Marketing-Must-Authentic-Personal-Inspired-35304561"
+    },
+    {
+      "id": "286",
+      "date": "2014-07-15T16:30:48-07:00",
+      "title": "An Interview With Marc Simons, Cofounder Of Giant Spoon",
+      "tagId": "15",
+      "link": "http://insights.popsugar.com/Interview-Marc-Simons-Cofounder-Giant-Spoon-35245979"
+    },
+    {
+      "id": "287",
+      "date": "2014-07-08T09:26:06-07:00",
+      "title": "Inspiring To Try And Buy: Custom Video For Women",
+      "tagId": "15",
+      "link": "http://insights.popsugar.com/Inspiring-Try-Buy-Custom-Video-Women-35143176"
+    },
+    {
+      "id": "288",
+      "date": "2014-07-07T09:52:53-07:00",
+      "title": "An Interview With Corey Moss",
+      "tagId": "15",
+      "link": "http://insights.popsugar.com/Interview-Corey-Moss-35023380"
+    },
+    {
+      "id": "289",
+      "date": "2014-06-30T10:45:16-07:00",
+      "title": "Using Video To Connect With Women",
+      "tagId": "15",
+      "link": "http://insights.popsugar.com/Using-Video-Connect-Women-35023355"
+    },
+    {
+      "id": "290",
+      "date": "2014-06-25T07:37:28-07:00",
+      "title": "When The Blogger Comes Alive",
+      "tagId": "15",
+      "link": "http://insights.popsugar.com/When-Blogger-Comes-Alive-35023305"
+    },
+    {
+      "id": "291",
+      "date": "2014-06-23T06:42:56-07:00",
+      "title": "When Women Watch Lifestyle Video",
+      "tagId": "15",
+      "link": "http://insights.popsugar.com/When-Women-Watch-Lifestyle-Video-34843918"
+    },
+    {
+      "id": "292",
+      "date": "2014-06-19T09:26:57-07:00",
+      "title": "Highlights From The POPSUGAR Insights Video Lab",
+      "tagId": "15",
+      "link": "http://insights.popsugar.com/Highlights-From-POPSUGAR-Insights-Video-Lab-34820464"
+    },
+    {
+      "id": "293",
+      "date": "2014-06-17T10:07:21-07:00",
+      "title": "Lifestyle Video — It’s Watched Everywhere",
+      "tagId": "15",
+      "link": "http://insights.popsugar.com/Lifestyle-Video-s-Watched-Everywhere-34843836"
+    },
+    {
+      "id": "294",
+      "date": "2014-06-16T15:53:21-07:00",
+      "title": "Women Watch Lifestyle Video While Relaxing & Multitasking",
+      "tagId": "15",
+      "link": "http://insights.popsugar.com/Women-Watch-Lifestyle-Video-While-Relaxing-Multitasking-34843950"
+    },
+    {
+      "id": "295",
+      "date": "2014-06-09T09:51:50-07:00",
+      "title": "Lifestyle Category Enthusiasts Viewing Habits By Device Type",
+      "tagId": "15",
+      "link": "http://insights.popsugar.com/Lifestyle-Category-Enthusiasts-Viewing-Habits-Device-Type-34843519"
+    },
+    {
+      "id": "296",
+      "date": "2014-06-05T10:14:58-07:00",
+      "title": "Social Media Usage Of Women Who Consume Lifestyle Videos",
+      "tagId": "15",
+      "link": "http://insights.popsugar.com/Social-Media-Usage-Women-Who-Consume-Lifestyle-Videos-34843380"
+    },
+    {
+      "id": "297",
+      "date": "2014-06-04T06:38:45-07:00",
+      "title": "Video Helps Women Connect With Lifestyle Passion Points",
+      "tagId": "15",
+      "link": "http://insights.popsugar.com/Video-Helps-Women-Connect-Lifestyle-Passion-Points-34843379"
+    },
+    {
+      "id": "298",
+      "date": "2014-06-03T06:20:50-07:00",
+      "title": "49% Of Women Want “How-To” Instructions In Video Content",
+      "tagId": "15",
+      "link": "http://insights.popsugar.com/49-Women-Want-How--Instructions-Video-Content-34820466"
+    },
+    {
+      "id": "299",
+      "date": "2014-06-02T08:53:12-07:00",
+      "title": "50% Of Avid Lifestyle Video Viewers Have Visited Site Or Store",
+      "tagId": "15",
+      "link": "http://insights.popsugar.com/50-Avid-Lifestyle-Video-Viewers-Have-Visited-Site-Store-34820463"
+    },
+    {
+      "id": "300",
+      "date": "2014-05-30T08:58:24-07:00",
+      "title": "Lifestyle Videos Help Brands Increase Favorability",
+      "tagId": "15",
+      "link": "http://insights.popsugar.com/Lifestyle-Videos-Help-Brands-Increase-Favorability-34820457"
+    },
+    {
+      "id": "301",
+      "date": "2014-05-29T09:09:41-07:00",
+      "title": "Women Are Open To Ads — Just Don’t Interrupt Her Experience",
+      "tagId": "15",
+      "link": "http://insights.popsugar.com/Women-Open-Ads-Just-Dont-Interrupt-Her-Experience-34820452"
+    },
+    {
+      "id": "302",
+      "date": "2014-05-28T09:00:00-07:00",
+      "title": "Viewing Experience Drives Emotional Connection For Lifestyle Video",
+      "tagId": "15",
+      "link": "http://insights.popsugar.com/Viewing-Experience-Drives-Emotional-Connection-Lifestyle-Video-34784275"
+    },
+    {
+      "id": "303",
+      "date": "2014-05-27T09:00:00-07:00",
+      "title": "Lifestyle Sites Surpass Social For Endemic Video Discovery",
+      "tagId": "15",
+      "link": "http://insights.popsugar.com/Lifestyle-Sites-Surpass-Social-Endemic-Video-Discovery-34784178"
+    },
+    {
+      "id": "304",
+      "date": "2014-05-23T08:48:36-07:00",
+      "title": "66% Of Women Seek Out Additional Info After Watching Lifestyle Videos",
+      "tagId": "15",
+      "link": "http://insights.popsugar.com/66-Women-Seek-Out-Additional-Info-After-Watching-Lifestyle-Videos-34784175"
+    },
+    {
+      "id": "305",
+      "date": "2014-05-22T08:19:06-07:00",
+      "title": "Women Seek Content That Entertains, Informs And Inspires",
+      "tagId": "15",
+      "link": "http://insights.popsugar.com/Women-Seek-Content-Entertains-Informs-Inspires-34784126"
+    },
+    {
+      "id": "306",
+      "date": "2014-05-21T09:13:19-07:00",
+      "title": "Content And Peer Recommendations Motivate Women To Watch Lifestyle Videos",
+      "tagId": "15",
+      "link": "http://insights.popsugar.com/Content-Peer-Recommendations-Motivate-Women-Watch-Lifestyle-Videos-34784093"
+    },
+    {
+      "id": "307",
+      "date": "2014-05-20T08:45:25-07:00",
+      "title": "50% Of Avid Lifestyle Streamers Have Downloaded A Video App",
+      "tagId": "15",
+      "link": "http://insights.popsugar.com/50-Avid-Lifestyle-Streamers-Have-Downloaded-Video-App-34784049"
+    },
+    {
+      "id": "308",
+      "date": "2014-05-19T09:11:13-07:00",
+      "title": "84% Of Young Millennial Women Watch Lifestyle Videos In Bedroom",
+      "tagId": "15",
+      "link": "http://insights.popsugar.com/84-Young-Millennial-Women-Watch-Lifestyle-Videos-Bedroom-34775654"
+    },
+    {
+      "id": "309",
+      "date": "2014-05-16T08:52:39-07:00",
+      "title": "58% Of Women Say Accessibility Drives Video Device Choice",
+      "tagId": "15",
+      "link": "http://insights.popsugar.com/58-Women-Say-Accessibility-Drives-Video-Device-Choice-34775603"
+    },
+    {
+      "id": "310",
+      "date": "2014-05-15T08:09:52-07:00",
+      "title": "52% Of Women Watch Longer-Form Lifestyle Content During Evening",
+      "tagId": "15",
+      "link": "http://insights.popsugar.com/52-Women-Watch-Longer-Form-Lifestyle-Content-During-Evening-34775581"
+    },
+    {
+      "id": "311",
+      "date": "2014-05-14T09:37:15-07:00",
+      "title": "Long-Form Lifestyle Content Best For Lean-Back Devices",
+      "tagId": "15",
+      "link": "http://insights.popsugar.com/Long-Form-Lifestyle-Content-Best-Lean-Back-Devices-34775679"
+    },
+    {
+      "id": "312",
+      "date": "2014-05-13T08:22:37-07:00",
+      "title": "52% Of Women Stream Lifestyle Video Via Their Smartphone",
+      "tagId": "15",
+      "link": "http://insights.popsugar.com/52-Women-Stream-Lifestyle-Video-Via-Smartphone-34775514"
+    },
+    {
+      "id": "313",
+      "date": "2014-04-24T14:20:51-07:00",
+      "title": "\"Sight, Sound & Emotion\": 2014 Lifestyle Video Study",
+      "tagId": "15",
+      "link": "http://insights.popsugar.com/Sight-Sound-Emotion-2014-Lifestyle-Video-Study-34653482"
+    },
+    {
+      "id": "314",
+      "date": "2014-10-27T11:31:26-07:00",
+      "title": "75% Of Women Prefer Using Laptop Or Desktop To Shop And Purchase Holiday Gifts",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/75-Women-Prefer-Using-Laptop-Desktop-Shop-Purchase-Holiday-Gifts-35626560"
+    },
+    {
+      "id": "315",
+      "date": "2014-10-21T07:49:22-07:00",
+      "title": "Over 1/3 Of Women Visit An Apparel-Brand Or Product Website First",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/Over-13-Women-Visit-Apparel-Brand-Product-Website-First-35626551"
+    },
+    {
+      "id": "316",
+      "date": "2014-10-20T08:04:39-07:00",
+      "title": "Women Find Holiday Shopping Inspiration From Brick-And-Mortar Stores",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/Women-Find-Holiday-Shopping-Inspiration-From-Brick--Mortar-Stores-35626546"
+    },
+    {
+      "id": "317",
+      "date": "2014-10-17T08:11:40-07:00",
+      "title": "43% Of Women Plan To Spend Over Half Their Holiday Apparel Spending Online",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/43-Women-Plan-Spend-Over-Half-Holiday-Apparel-Spending-Online-35626533"
+    },
+    {
+      "id": "318",
+      "date": "2014-10-16T10:35:29-07:00",
+      "title": "9 In 10 Women Purchase Apparel Or Accessory Holiday Gifts For Others",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/9-10-Women-Purchase-Apparel-Accessory-Holiday-Gifts-Others-35626529"
+    },
+    {
+      "id": "319",
+      "date": "2014-10-15T10:36:56-07:00",
+      "title": "1/4 Of Women Begin Their Holiday Shopping On Or Around Black Friday",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/14-Women-Begin-Holiday-Shopping-Around-Black-Friday-35626527"
+    },
+    {
+      "id": "320",
+      "date": "2014-10-14T09:04:05-07:00",
+      "title": "32% Of Women Purchase Apparel For Spouses",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/32-Women-Purchase-Apparel-Spouses-35626518"
+    },
+    {
+      "id": "321",
+      "date": "2014-10-13T09:42:13-07:00",
+      "title": "76% Of Women Plan To Spend More Or About The Same For Holiday 2014",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/76-Women-Plan-Spend-More-About-Same-Holiday-2014-35626526"
+    },
+    {
+      "id": "322",
+      "date": "2014-10-10T08:22:03-07:00",
+      "title": "If Asked To Choose, Nearly 1/2 Of Women Would Prefer To Shop At A Department Store",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/Asked-Choose-Nearly-12-Women-Would-Prefer-Shop-Department-Store-35626517"
+    },
+    {
+      "id": "323",
+      "date": "2014-10-09T08:39:44-07:00",
+      "title": "Women Would Purchase Shoes And Handbags If They Won A $500 Shopping Spree",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/Women-Would-Purchase-Shoes-Handbags-Won-500-Shopping-Spree-35626520"
+    },
+    {
+      "id": "324",
+      "date": "2014-10-08T09:35:50-07:00",
+      "title": "29% Of Women Would Pick Nordstrom If They Won A $5,000 Shopping Spree",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/29-Women-Would-Pick-Nordstrom-Won-5000-Shopping-Spree-35626519"
+    },
+    {
+      "id": "325",
+      "date": "2014-10-07T08:34:00-07:00",
+      "title": "84% Of Women Purchased Apparel Or Accessories For Their Last Special Occasion",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/84-Women-Purchased-Apparel-Accessories-Last-Special-Occasion-35626513"
+    },
+    {
+      "id": "326",
+      "date": "2014-10-06T13:22:47-07:00",
+      "title": "The Best Of British Brands Have The World At Their Feet",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/Best-British-Brands-Have-World-Feet-35577709"
+    },
+    {
+      "id": "327",
+      "date": "2014-10-06T09:11:28-07:00",
+      "title": "Majority Of Women Satisfied With Their Experiences At Nordstrom And Target",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/Majority-Women-Satisfied-Experiences-Nordstrom-Target-35626501"
+    },
+    {
+      "id": "328",
+      "date": "2014-10-03T09:20:41-07:00",
+      "title": "Over 1/3 Of Women Have Purchased Apparel Or Accessories Online From Target Or Nordstrom",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/Over-13-Women-Have-Purchased-Apparel-Accessories-Online-From-Target-Nordstrom-35626500"
+    },
+    {
+      "id": "329",
+      "date": "2014-10-02T09:54:10-07:00",
+      "title": "Domestic Or Foreign? Fashion, Brand, And Product Preferences In Russia",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/Domestic-Foreign-Fashion-Brand-Product-Preferences-Russia-35577741"
+    },
+    {
+      "id": "330",
+      "date": "2014-10-01T14:26:25-07:00",
+      "title": "Promotions & Sales Drive Women To Connect Socially With Apparel Brands",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/Promotions-Sales-Drive-Women-Connect-Socially-Apparel-Brands-35626512"
+    },
+    {
+      "id": "331",
+      "date": "2014-09-29T12:54:34-07:00",
+      "title": "How Retailers Must Adapt To Changing Shopping Patterns",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/How-Retailers-Must-Adapt-Changing-Shopping-Patterns-35577730"
+    },
+    {
+      "id": "332",
+      "date": "2014-09-26T09:26:46-07:00",
+      "title": "Women Spend More On Apparel And Accessories In Back Half Of The Year",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/Women-Spend-More-Apparel-Accessories-Back-Half-Year-35626496"
+    },
+    {
+      "id": "333",
+      "date": "2014-09-25T08:31:39-07:00",
+      "title": "Selling Online In A Borderless World",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/Selling-Online-Borderless-World-35577726"
+    },
+    {
+      "id": "334",
+      "date": "2014-09-24T10:00:46-07:00",
+      "title": "Over 60% Of Women Typically Purchase Apparel And Accessories From Brick-And-Mortar Stores",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/Over-60-Women-Typically-Purchase-Apparel-Accessories-From-Brick--Mortar-Stores-35626499"
+    },
+    {
+      "id": "335",
+      "date": "2014-09-23T09:23:48-07:00",
+      "title": "Online Shopping Trends In Japan",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/Online-Shopping-Trends-Japan-35577713"
+    },
+    {
+      "id": "336",
+      "date": "2014-09-22T13:20:48-07:00",
+      "title": "Price Matters, Even With Impulse Purchases",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/Price-Matters-Even-Impulse-Purchases-35626495"
+    },
+    {
+      "id": "337",
+      "date": "2014-09-19T08:33:15-07:00",
+      "title": "61% Of Women Buy New Shoes Every Few Months",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/61-Women-Buy-New-Shoes-Every-Few-Months-35626474"
+    },
+    {
+      "id": "338",
+      "date": "2014-09-18T08:28:04-07:00",
+      "title": "Challenges And Opportunities In Global Fashion Discovery And Shopping",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/Challenges-Opportunities-Global-Fashion-Discovery-Shopping-35577710"
+    },
+    {
+      "id": "339",
+      "date": "2014-09-17T07:45:24-07:00",
+      "title": "70% Of Women Spend Over $300 Per Year On Apparel And Accessories",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/70-Women-Spend-Over-300-Per-Year-Apparel-Accessories-35626472"
+    },
+    {
+      "id": "340",
+      "date": "2014-09-16T08:39:12-07:00",
+      "title": "What Online Retailers Need To Know About South Korea",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/What-Online-Retailers-Need-Know-About-South-Korea-35577706"
+    },
+    {
+      "id": "341",
+      "date": "2014-09-15T11:37:31-07:00",
+      "title": "Content Sites Inspire Women To Shop Online For Apparel And Accessories",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/Content-Sites-Inspire-Women-Shop-Online-Apparel-Accessories-35626467"
+    },
+    {
+      "id": "342",
+      "date": "2014-09-12T09:49:19-07:00",
+      "title": "The Globalization Of Fashion: Online And Offline",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/Globalization-Fashion-Online-Offline-35577694"
+    },
+    {
+      "id": "343",
+      "date": "2014-09-11T09:23:30-07:00",
+      "title": "Nearly 1/2 Of Women Shop Online For Apparel At Work",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/Nearly-12-Women-Shop-Online-Apparel-Work-35626465"
+    },
+    {
+      "id": "344",
+      "date": "2014-09-10T15:35:07-07:00",
+      "title": "EU Shopping Behaviour During Sale Periods",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/EU-Shopping-Behaviour-During-Sale-Periods-35687598"
+    },
+    {
+      "id": "345",
+      "date": "2014-09-10T08:07:59-07:00",
+      "title": "Nearly 60% Of Women Shop Online Because Of An Upcoming Event",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/Nearly-60-Women-Shop-Online-Because-Upcoming-Event-35626461"
+    },
+    {
+      "id": "346",
+      "date": "2014-09-09T11:16:58-07:00",
+      "title": "Taking Advantage Of The Chinese Ecommerce Explosion",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/Taking-Advantage-Chinese-Ecommerce-Explosion-35577693"
+    },
+    {
+      "id": "347",
+      "date": "2014-09-08T13:06:39-07:00",
+      "title": "Apparel Shopping Is A Daily Obsession For 1 In 4 Women",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/Apparel-Shopping-Daily-Obsession-1-4-Women-35626456"
+    },
+    {
+      "id": "348",
+      "date": "2014-09-05T11:56:05-07:00",
+      "title": "5 Key Global Fashion Trends",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/5-Key-Global-Fashion-Trends-35577742"
+    },
+    {
+      "id": "349",
+      "date": "2014-09-05T10:40:43-07:00",
+      "title": "Four Common Mistakes Retailers Can Avoid When Launching Websites In Other Languages",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/Four-Common-Mistakes-Retailers-Can-Avoid-When-Launching-Websites-Other-Languages-35577687"
+    },
+    {
+      "id": "350",
+      "date": "2014-09-04T08:21:10-07:00",
+      "title": "Over 1 In 4 Women Describe Themselves As “Stylish”",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/Over-1-4-Women-Describe-Themselves-Stylish-35626451"
+    },
+    {
+      "id": "351",
+      "date": "2014-09-03T10:47:14-07:00",
+      "title": "94% Of Women Want To Look Their Best Every Day",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/94-Women-Want-Look-Best-Every-Day-35624653"
+    },
+    {
+      "id": "352",
+      "date": "2014-09-02T10:47:07-07:00",
+      "title": "A Daily Obsession: Q3 2014 Retail-Apparel Report",
+      "tagId": "16",
+      "link": "http://insights.popsugar.com/Daily-Obsession-Q3-2014-Retail-Apparel-Report-35616381"
+    },
+    {
+      "id": "353",
+      "date": "2016-08-05T09:48:25-07:00",
+      "title": "The Real Cost Of Getting Married",
+      "tagId": "17",
+      "link": "http://insights.popsugar.com/Real-Cost-Getting-Married-42175733"
+    },
+    {
+      "id": "354",
+      "date": "2016-08-04T09:30:08-07:00",
+      "title": "The Truth About Wedding Dress Shopping",
+      "tagId": "17",
+      "link": "http://insights.popsugar.com/Truth-About-Wedding-Dress-Shopping-42171463"
+    },
+    {
+      "id": "355",
+      "date": "2016-08-01T09:03:59-07:00",
+      "title": "82% Of Brides Planned A Honeymoon",
+      "tagId": "17",
+      "link": "http://insights.popsugar.com/82-Brides-Planned-Honeymoon-42148176"
+    },
+    {
+      "id": "356",
+      "date": "2016-07-29T13:36:12-07:00",
+      "title": "October And June Most Popular Months To Get Married",
+      "tagId": "17",
+      "link": "http://insights.popsugar.com/October-June-Most-Popular-Months-Get-Married-42127703"
+    },
+    {
+      "id": "357",
+      "date": "2016-07-28T09:49:21-07:00",
+      "title": "Nearly Half Of Brides Try On More Than 7 Dresses",
+      "tagId": "17",
+      "link": "http://insights.popsugar.com/Nearly-Half-Brides-Try-More-Than-7-Dresses-42112970"
+    },
+    {
+      "id": "358",
+      "date": "2016-07-27T09:23:04-07:00",
+      "title": "68% Of Women Pay For Their Wedding With Their Spouse",
+      "tagId": "17",
+      "link": "http://insights.popsugar.com/68-Women-Pay-Wedding-Spouse-42100385"
+    },
+    {
+      "id": "359",
+      "date": "2016-07-26T09:24:55-07:00",
+      "title": "70% Of Women Spend Over 7 Months Planning Their Wedding",
+      "tagId": "17",
+      "link": "http://insights.popsugar.com/70-Women-Spend-Over-7-Months-Planning-Wedding-42087927"
+    },
+    {
+      "id": "360",
+      "date": "2016-07-25T10:02:46-07:00",
+      "title": "Women Look To Endemic Sites, Pinterest, To Find Wedding Inspiration",
+      "tagId": "17",
+      "link": "http://insights.popsugar.com/Women-Look-Endemic-Sites-Pinterest-Find-Wedding-Inspiration-42076062"
+    },
+    {
+      "id": "361",
+      "date": "2016-07-22T12:42:25-07:00",
+      "title": "April And December: The Most Popular Months To Get Engaged",
+      "tagId": "17",
+      "link": "http://insights.popsugar.com/April-December-Most-Popular-Months-Get-Engaged-42053494"
+    }
+  ]
+}
